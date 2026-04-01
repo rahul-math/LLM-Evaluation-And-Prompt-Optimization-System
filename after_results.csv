@@ -1,0 +1,1330 @@
+original_prompt,optimized_prompt,prompt_type,model,response,reference,bertscore,rougeL,embedding_score,final_score
+Explain machine learning,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised learning, neural networks), and applications in various fields (e.g., computer vision, natural language processing, predictive analytics).""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining the topic and specifying what aspects of machine learning should be covered.
+* Increase accuracy by highlighting key concepts and mentioning specific areas where machine learning is applied.
+* Enhance structure by breaking down the",basic,llama3.2,"Here's a clear and concise overview of machine learning, including its definition, key concepts, and applications in various fields:
+
+**Definition and Overview**
+
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data without being explicitly programmed. It involves training algorithms on large datasets to enable them to make predictions, classify patterns, or make decisions based on the input data.
+
+**Key Concepts**
+
+1. **Supervised Learning**: In supervised learning, the algorithm learns from labeled data, where the correct output is already known. The goal is to learn a mapping between inputs",Machine learning is a method where systems learn patterns from data.,0.8764219284057617,0.14814814814814814,0.71840537,0.6105348345306184
+Provide a structured explanation of machine learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised, regression vs. classification), and major components (e.g., training, testing, evaluation). Please provide a clear and concise explanation of how machine learning works, highlighting its applications, advantages, and limitations.""
+
+I made the following changes to improve the prompt:
+
+* Added specific details about what is expected in the response (comprehensive, step-by-step overview)
+* Clarified key concepts and components of machine learning
+* Emphas",structured,llama3.2,"Here's a comprehensive, step-by-step overview of machine learning, including its definition, key concepts, major components, applications, advantages, and limitations.
+
+**Definition of Machine Learning**
+
+Machine learning is a subset of artificial intelligence (AI) that involves training algorithms to make predictions or decisions based on data. It enables machines to learn from experience without being explicitly programmed for specific tasks.
+
+**Key Concepts in Machine Learning**
+
+1. **Supervised vs. Unsupervised Learning**: Supervised learning involves training models on labeled data, where the correct output is already known. Unsupervised learning involves training models on",Machine learning is a method where systems learn patterns from data.,0.8667430877685547,0.1359223300970874,0.6785145,0.5910282812940264
+Explain machine learning briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised learning, neural networks), and applications in various fields (e.g., computer vision, natural language processing).""
+
+This revised prompt aims to:
+
+* Clarify the request by specifying what is meant by ""briefly"" (a concise overview)
+* Improve accuracy by defining machine learning and highlighting key concepts
+* Enhance structure by breaking down the topic into its main components (definition,",concise,llama3.2,"Here's a rewritten version of the response that provides a concise overview of machine learning:
+
+Machine Learning: A Comprehensive Overview
+
+**Definition:** Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. It involves training algorithms on large datasets to enable them to make predictions, classify patterns, or take actions.
+
+**Key Concepts:**
+
+1. **Supervised Learning**: In supervised learning, the algorithm learns from labeled data, where the correct output is already known. The goal is to predict the output for new, unseen data.
+2. **Unsupervised Learning**:",Machine learning is a method where systems learn patterns from data.,0.873938262462616,0.15238095238095237,0.7305153,0.6144441870280675
+You are an expert. Explain machine learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading authority in the field of artificial intelligence, provide a comprehensive overview of machine learning, including its fundamental concepts, types (supervised, unsupervised, and reinforcement), applications, and key challenges.
+
+This revised prompt aims to improve:
+
+* **Clarity**: By specifying the role and expertise required, it's clear what kind of response is expected.
+* **Accuracy**: The prompt provides a more detailed understanding of machine learning, including its types and applications, which will lead to a more accurate response.
+* **Structure**: The prompt breaks down",role_prompt,llama3.2,"**Comprehensive Overview of Machine Learning**
+
+As a leading authority in the field of artificial intelligence, I am pleased to provide a comprehensive overview of machine learning, covering its fundamental concepts, types, applications, and key challenges.
+
+**Fundamental Concepts:**
+
+Machine learning is a subset of artificial intelligence that involves training algorithms on data to enable them to make predictions or decisions without being explicitly programmed. The core concept of machine learning is the idea of using data to improve the performance of a model over time. This is achieved through various techniques, including supervised and unsupervised learning.
+
+**Types of Machine Learning:",Machine learning is a method where systems learn patterns from data.,0.8661938309669495,0.0909090909090909,0.6800686,0.5777708492495797
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define ""Machine Learning"" and provide a concise explanation, similar to how you would describe ""AI"" as ""intelligence in machines"".
+
+This revised prompt aims to improve clarity by:
+
+* Clearly stating the task: defining ""Machine Learning""
+* Providing context for the expected response (similar to describing AI)
+* Structuring the prompt with a clear call-to-action
+
+Accuracy is maintained by keeping the same meaning and intent as the original prompt. The style is adapted for a few-shot prompt, which typically involves providing examples or analogies to help clarify the task",few_shot,llama3.2,"Here's a rewritten response that defines ""Machine Learning"" in a concise manner:
+
+**Definition:** Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables machines to learn from data without being explicitly programmed. Just as humans learn through experience and feedback, ML algorithms improve their performance on a task by analyzing large datasets and adjusting their parameters accordingly.
+
+**Analogy:** Imagine teaching a child to recognize objects in pictures. You show them many examples of cats, dogs, and cars, and gradually increase the difficulty level. As they learn from these examples, they develop an understanding of what makes",Machine learning is a method where systems learn patterns from data.,0.8707894086837769,0.12727272727272726,0.7414441,0.6089308208769019
+Explain artificial intelligence,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a comprehensive overview of artificial intelligence (AI), including its definition, history, key concepts (e.g., machine learning, deep learning, natural language processing), applications in various industries (e.g., healthcare, finance, customer service), and potential benefits and challenges associated with AI adoption.""
+
+This rewritten prompt aims to:
+
+* Clarify the scope by specifying a comprehensive overview
+* Improve accuracy by defining AI and mentioning specific concepts and industries
+* Enhance structure by breaking down the topic into manageable sections",basic,llama3.2,"Here's a comprehensive overview of artificial intelligence (AI) that covers its definition, history, key concepts, applications in various industries, and potential benefits and challenges associated with AI adoption:
+
+**Definition and History of Artificial Intelligence**
+
+Artificial intelligence refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. The term ""artificial intelligence"" was first coined in 1956 by John McCarthy, a computer scientist who organized the Dartmouth Summer Research Project on Artificial Intelligence.
+
+The history of AI dates back to the mid-",Artificial intelligence is the simulation of human intelligence in machines.,0.8602810502052307,0.1320754716981132,0.67820233,0.5871957698520625
+Provide a structured explanation of artificial intelligence,"Here is the rewritten prompt:
+
+""Develop a comprehensive, structured overview of Artificial Intelligence (AI), including its definition, history, key concepts (e.g., machine learning, deep learning, neural networks), applications (e.g., natural language processing, computer vision, robotics), and potential benefits and challenges. Please provide a clear and concise explanation that is easy to understand for a general audience.""
+
+I made the following changes:
+
+* Added specific details about what you want the AI overview to cover (definition, history, key concepts, applications, benefits, and challenges) to improve clarity.
+* Changed ""Provide""",structured,llama3.2,"Here's a comprehensive overview of Artificial Intelligence (AI), covering its definition, history, key concepts, applications, potential benefits, and challenges.
+
+**Definition of Artificial Intelligence**
+
+Artificial Intelligence refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. AI systems use algorithms and data to make predictions, classify objects, and generate insights, enabling machines to think and act like humans.
+
+**History of Artificial Intelligence**
+
+The concept of AI dates back to the 1950s, when computer scientists like Alan Turing, Marvin",Artificial intelligence is the simulation of human intelligence in machines.,0.8564596772193909,0.13592233009708737,0.7188528,0.5990164183007861
+Explain artificial intelligence briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of artificial intelligence (AI), including its definition, key concepts, and applications. Please keep your explanation brief and focused on the fundamental principles of AI.""
+
+This revised prompt aims to:
+
+* Improve clarity by defining what is meant by ""briefly""
+* Increase accuracy by specifying that the response should focus on fundamental principles
+* Enhance structure by breaking down the request into specific components (definition, key concepts, applications)
+* Increase usefulness by providing a clear direction for the response",concise,llama3.2,"Here's a concise overview of artificial intelligence (AI) based on your revised prompt:
+
+**Definition:** Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.
+
+**Key Concepts:**
+
+1. **Machine Learning**: AI systems use algorithms to learn from data and improve their performance over time.
+2. **Natural Language Processing**: AI enables computers to understand, generate, and process human language.
+3. **Computer Vision**: AI allows computers to interpret and understand visual data from images and videos.
+
+**",Artificial intelligence is the simulation of human intelligence in machines.,0.8544078469276428,0.1188118811881188,0.70615184,0.5892522649894847
+You are an expert. Explain artificial intelligence,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert Explanation**
+
+As a renowned expert in the field of artificial intelligence, provide a comprehensive and accurate overview of AI, including its definition, key concepts, applications, and potential implications for various industries and society as a whole.
+
+This rewritten prompt aims to improve:
+
+* Clarity: By specifying that I'm an ""expert"" and providing context about what kind of expertise is required.
+* Accuracy: By emphasizing the need for a comprehensive and accurate overview, which ensures that the response will be detailed and precise.
+* Structure: By breaking down the request into",role_prompt,llama3.2,"As a renowned expert in the field of artificial intelligence, I'd like to provide a comprehensive and accurate overview of AI, including its definition, key concepts, applications, and potential implications for various industries and society as a whole.
+
+**Definition and Key Concepts**
+
+Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. AI is based on the idea that machines can be programmed to simulate human-like intelligence, enabling them to interact with and understand data in a more intelligent way.
+
+There are",Artificial intelligence is the simulation of human intelligence in machines.,0.867048978805542,0.12500000000000003,0.6636584,0.5834171205759048
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Artificial Intelligence (AI)
+
+**Target Response:** Provide a concise explanation of what AI is, including its core concept and significance.
+
+**Clarification:** Please respond with a brief definition that accurately captures the essence of AI, similar to how you would explain it to someone who has never heard of it before.
+
+This rewritten prompt aims to:
+
+1. **Improve Clarity**: By explicitly stating the target response and providing context, the prompt helps ensure that the model understands what's being asked.
+2. **Enhance Accuracy**: The clarification section ensures",few_shot,llama3.2,"Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. At its core, AI involves creating algorithms and models that enable machines to mimic human cognitive abilities, allowing them to understand and interact with data in a more intelligent way.
+
+The significance of AI lies in its potential to automate complex tasks, improve efficiency, and enhance productivity across various industries, from healthcare and finance to transportation and education. By leveraging AI, organizations can gain insights, make predictions, and optimize processes, ultimately leading to better outcomes",Artificial intelligence is the simulation of human intelligence in machines.,0.8724036812782288,0.12500000000000003,0.7191143,0.6021957755088806
+Explain deep learning,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise overview of deep learning, including its definition, key concepts (e.g., neural networks, convolutional layers), and applications in various fields (e.g., computer vision, natural language processing). Please also highlight the benefits and challenges of using deep learning techniques.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining what is meant by ""deep learning"" and specifying the desired level of detail
+* Increase accuracy by mentioning specific concepts and applications that are relevant to deep learning
+*",basic,llama3.2,"Here's a rewritten version of the response based on the provided prompt:
+
+Deep Learning: An Overview
+
+Deep learning is a subset of machine learning that involves the use of artificial neural networks with multiple layers to analyze and interpret data. The term ""deep"" refers to the fact that these networks have many layers, typically more than two, which allows them to learn complex patterns in data.
+
+Key Concepts:
+
+1. **Neural Networks**: Inspired by the human brain's structure, neural networks consist of interconnected nodes (neurons) that process and transmit information.
+2. **Convolutional Layers**: These layers",Deep learning is a subset of machine learning using neural networks.,0.8777104020118713,0.1869158878504673,0.66516984,0.6067098836475444
+Provide a structured explanation of deep learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of deep learning, including its history, key concepts (e.g., neural networks, convolutional layers), and applications (e.g., computer vision, natural language processing). Please provide a clear and concise explanation of how deep learning models are trained, validated, and deployed, as well as their advantages and limitations.""
+
+I made the following changes to improve the prompt:
+
+* Added specific details about what is expected in the response (comprehensive, step-by-step overview)
+* Clarified the scope by mentioning key concepts and applications
+*",structured,llama3.2,"Here's a comprehensive, step-by-step overview of deep learning, including its history, key concepts, applications, training, validation, deployment, advantages, and limitations.
+
+**History of Deep Learning**
+
+Deep learning is a subset of machine learning that involves the use of artificial neural networks with multiple layers to analyze data. The concept of neural networks dates back to the 1940s, but it wasn't until the 1980s that the idea of multi-layer perceptrons (MLPs) was introduced. In the 1990s and early 2000s, researchers like Yann Le",Deep learning is a subset of machine learning using neural networks.,0.8752033710479736,0.20618556701030924,0.6399541,0.6039232515182692
+Explain deep learning briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of deep learning, including its key concepts, advantages, and applications. Please define what deep learning is, how it differs from traditional machine learning, and highlight its most significant contributions to AI research.""
+
+This revised prompt aims to achieve the following improvements:
+
+* Clarity: By specifying that the response should be ""concise"", I've helped ensure that the answer will be brief and easy to understand.
+* Accuracy: The rewritten prompt includes specific terms like ""key concepts"", ""advantages",concise,llama3.2,"Here's a concise overview of deep learning, including its key concepts, advantages, and applications:
+
+Deep learning is a subset of machine learning that involves the use of artificial neural networks (ANNs) with multiple layers to analyze and interpret data. Unlike traditional machine learning methods, which typically rely on hand-crafted features or shallow models, deep learning algorithms learn complex representations of data through self-organization and unsupervised training.
+
+The key concepts in deep learning include:
+
+1. **Artificial Neural Networks**: Inspired by the human brain's neural structure, ANNs consist of layers of interconnected nodes (neurons",Deep learning is a subset of machine learning using neural networks.,0.8818193674087524,0.1869158878504673,0.7021202,0.6194385777288509
+You are an expert. Explain deep learning,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert Explanation**
+
+""Describe the fundamental concepts and principles of Deep Learning, including its history, key components (e.g., neural networks, convolutional layers), and applications in various fields (e.g., computer vision, natural language processing). Provide a clear and concise overview of how Deep Learning differs from traditional machine learning approaches and highlight its advantages and limitations.""
+
+I made the following improvements:
+
+1. **Clarity**: I added specific details about what to cover in the explanation, making it easier for the expert to provide a comprehensive response.
+2. **",role_prompt,llama3.2,"Here's an improved version of your rewritten prompt:
+
+**Role-Prompt: Expert Explanation**
+
+""Deliver a detailed and authoritative explanation of Deep Learning, covering its historical context, key architectural components (such as neural networks and convolutional layers), and applications in diverse fields like computer vision, natural language processing, and more. Clearly articulate the fundamental differences between Deep Learning and traditional machine learning approaches, highlighting both the advantages and limitations of this powerful technology.""
+
+I made the following improvements:
+
+1. **Clarity**: I added specific details about what to cover in the explanation, making it easier for the expert to",Deep learning is a subset of machine learning using neural networks.,0.8501948714256287,0.09259259259259259,0.36702132,0.4779621274934875
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define ""Deep Learning"" and provide a concise explanation, similar to how you would describe ""AI"" as ""intelligence in machines"".
+
+This revised prompt aims to improve clarity by:
+
+* Clearly stating the task: defining and explaining a concept
+* Providing a specific example for context (AI)
+* Using simple language to convey the idea
+
+Accuracy is improved by:
+
+* Ensuring the prompt is concise and focused on the main topic (deep learning)
+
+Structure is enhanced by:
+
+* Breaking down the prompt into clear sections: definition, explanation, and comparison to",few_shot,llama3.2,"**Definition:** Deep Learning
+**Explanation:** Deep learning refers to a subset of machine learning that uses artificial neural networks with multiple layers to analyze and interpret data. These networks are designed to mimic the human brain's structure and function, allowing them to learn complex patterns and relationships in large datasets.
+**Comparison to AI:** Just as AI represents ""intelligence in machines,"" deep learning can be seen as a specific type of intelligence that enables machines to learn from data and improve their performance over time.",Deep learning is a subset of machine learning using neural networks.,0.8870518803596497,0.18947368421052632,0.77310944,0.6435956911977969
+Explain data science,"Here is the rewritten prompt:
+
+""Provide a clear and concise overview of what data science entails, including its key concepts, methodologies, and applications. Please cover the following aspects: definition, types (e.g., machine learning, statistics), tools and technologies used, common industries or domains where it's applied, and any notable trends or challenges in the field.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by defining what is meant by ""explain"" and specifying the desired level of detail.
+* Improved accuracy by providing a more comprehensive understanding of data science, including its various aspects and applications",basic,llama3.2,"Here's an overview of data science, covering its definition, key concepts, methodologies, tools, industries, trends, and challenges:
+
+**Definition:** Data science is a multidisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data. It involves the use of various techniques, algorithms, and models to analyze, interpret, and communicate complex data-driven information.
+
+**Key Concepts:**
+
+1. **Data**: The foundation of data science is data, which can be in various forms such as text, images, audio,",Data science involves extracting insights from data.,0.8699625134468079,0.10526315789473685,0.6437098,0.5726768923433204
+Provide a structured explanation of data science,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of data science, including its core concepts, methodologies, and applications. Please structure your response into clear sections or subtopics, such as: 
+
+* Definition and scope of data science
+* Key techniques and tools (e.g., machine learning, statistics, visualization)
+* Data preprocessing and cleaning methods
+* Model development and evaluation strategies
+* Real-world applications and case studies
+* Challenges and limitations in the field
+
+Ensure your explanation is accurate, concise, and easy to follow. Provide relevant examples or analogies to illustrate complex",structured,llama3.2,"**Comprehensive Overview of Data Science**
+
+Data science is a multidisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from data. Here's a step-by-step guide to understanding the core concepts, methodologies, and applications of data science.
+
+**I. Definition and Scope of Data Science**
+
+* Data science is the process of extracting insights and knowledge from data using various techniques, tools, and methods.
+* It involves collecting, processing, analyzing, and interpreting complex data sets to inform business decisions or solve problems.
+* Data science encompasses a wide",Data science involves extracting insights from data.,0.8777804970741272,0.11764705882352942,0.71013683,0.5994473686989615
+Explain data science briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of data science, including its core concepts, applications, and key benefits. Please define what data science is, how it differs from statistics and machine learning, and highlight its relevance in today's data-driven world.""
+
+This revised prompt aims to:
+
+* Improve clarity by specifying the desired outcome (a concise overview) and providing clear definitions of related terms.
+* Enhance accuracy by ensuring that the response covers the core concepts, applications, and benefits of data science.
+* Strengthen structure by",concise,llama3.2,"Here's a rewritten version of the text that provides a concise overview of data science:
+
+Data Science: A Comprehensive Overview
+
+Data science is an interdisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights from structured and unstructured data. It involves a range of techniques, including machine learning, deep learning, natural language processing, and visualization, to analyze and interpret complex data sets.
+
+**Key Concepts:**
+
+1. **Data**: The foundation of data science is the collection, storage, and analysis of data. This can come in various forms, such as structured",Data science involves extracting insights from data.,0.8722819089889526,0.0970873786407767,0.64881086,0.5726822511374372
+You are an expert. Explain data science,"Here is the rewritten prompt:
+
+**Role Prompt:** As a renowned expert in the field of data science, provide a comprehensive overview of this discipline, highlighting its key concepts, methodologies, and applications.
+
+Improvements made:
+
+* Clarity: The prompt now clearly specifies that you are an expert in data science, making it easier for me to understand what is expected.
+* Accuracy: The term ""renowned expert"" adds a level of credibility and accuracy to the prompt, ensuring that I provide a high-quality response.
+* Structure: The prompt is now more structured, with clear expectations on what to cover (",role_prompt,llama3.2,"As a renowned expert in the field of data science, I am pleased to provide a comprehensive overview of this discipline, highlighting its key concepts, methodologies, and applications.
+
+**What is Data Science?**
+
+Data science is an interdisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data. It involves the use of various techniques, tools, and methods to analyze, interpret, and communicate complex data-driven information.
+
+**Key Concepts in Data Science:**
+
+1. **Data**: The foundation of data science is data, which can",Data science involves extracting insights from data.,0.8720821142196655,0.0980392156862745,0.6769524,0.5813303458340028
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Data Science
+
+**Context:** Provide a concise explanation of data science, similar to how you would describe AI as ""intelligence in machines"".
+
+**Example Response:** Data science is [insert clear and accurate definition here].
+
+This rewritten prompt aims to improve clarity by providing a specific task (""Define Data Science"") and context that sets the tone for the response. It also maintains accuracy by ensuring the example response is concise and focused on defining data science. The structure is improved by breaking down the prompt into three distinct parts: context, task, and example response",few_shot,llama3.2,"Here's a rewritten response to the ""Few-shot Prompt"":
+
+**Data Science Definition:** Data science is the application of advanced statistical and computational techniques to extract insights and knowledge from structured and unstructured data. It involves using machine learning algorithms, data visualization tools, and programming languages to analyze, interpret, and communicate complex data-driven information.
+
+This definition aims to provide a concise explanation of data science, similar to how AI is described as ""intelligence in machines"". The response breaks down the concept into its core components: data analysis, machine learning, data visualization, and communication.",Data science involves extracting insights from data.,0.8803427219390869,0.099009900990099,0.53201354,0.5414441316434653
+Explain NLP,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and current trends. Please explain how NLP enables computers to understand, interpret, and generate human language, highlighting its potential uses in areas such as text analysis, sentiment analysis, machine translation, and chatbots.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining the topic (NLP) and specifying what is expected (a comprehensive overview)
+* Increase accuracy by providing specific examples of applications and",basic,llama3.2,"Here's a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and current trends.
+
+**Definition and Key Concepts**
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. It involves the development of algorithms and statistical models to process, understand, and generate human language. NLP enables computers to perform tasks such as text analysis, sentiment analysis, machine translation, and chatbots.
+
+The key concepts in NLP include:
+
+1. **Tokenization**: breaking down text",Natural language processing deals with understanding human language.,0.8676716685295105,0.1443298969072165,0.6750388,0.5928792897880691
+Provide a structured explanation of NLP,"Here is the rewritten prompt:
+
+""Develop a comprehensive and structured overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and current trends. Please provide a clear and concise explanation that covers the following aspects: 
+
+* Definition and history of NLP
+* Key techniques and algorithms used in NLP (e.g., tokenization, sentiment analysis, named entity recognition)
+* Applications of NLP in various domains (e.g., language translation, text summarization, chatbots)
+* Current trends and advancements in NLP research and development""
+
+I made the following changes to improve",structured,llama3.2,"Here is a comprehensive overview of Natural Language Processing (NLP) that covers the key aspects you requested:
+
+**Definition and History of NLP**
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. The term ""natural language"" refers to any human language, including spoken and written forms. NLP aims to enable computers to process, understand, and generate human language, which has numerous applications in various fields.
+
+The history of NLP dates back to the 1950s, when computer scientists began exploring",Natural language processing deals with understanding human language.,0.8677052855491638,0.14,0.7013572,0.5994892818927766
+Explain NLP briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of Natural Language Processing (NLP), including its definition, key concepts, and applications. Please highlight the main differences between rule-based and machine learning approaches in NLP.""
+
+This revised prompt aims to:
+
+* Clarify the topic by specifying ""Natural Language Processing""
+* Improve accuracy by defining what NLP is and highlighting key concepts
+* Structure the response by asking for a concise overview and specific details on approaches
+* Increase usefulness by providing context and encouraging the respondent to highlight differences between",concise,llama3.2,"Here's a rewritten version of the prompt that incorporates the suggested improvements:
+
+""Provide a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and methodologies. Specifically, discuss the following:
+
+1. Define NLP and explain its significance in modern computing.
+2. Outline the main components of NLP, such as text preprocessing, sentiment analysis, named entity recognition, and machine translation.
+3. Highlight the differences between rule-based and machine learning approaches in NLP, including their strengths, weaknesses, and applications.
+
+In your response, please provide a concise overview of N",Natural language processing deals with understanding human language.,0.835520327091217,0.06,0.51405185,0.506423690199852
+You are an expert. Explain NLP,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert in Natural Language Processing**
+
+**Task:** Provide a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, and applications.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By explicitly stating the role and task, it's clear what is expected from the expert.
+* **Accuracy**: The prompt focuses on NLP specifically, avoiding ambiguity or confusion.
+* **Structure**: The task is well-defined, with a clear expectation of providing an overview of NLP.
+* **Usefulness**: The prompt provides specific",role_prompt,llama3.2,"**Comprehensive Overview of Natural Language Processing (NLP)**
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. It involves the development of algorithms, statistical models, and machine learning techniques to process, understand, and generate human language.
+
+**Definition:**
+
+NLP is a multidisciplinary field that combines computer science, linguistics, and cognitive psychology to enable machines to comprehend, interpret, and produce human language. The primary goal of NLP is to develop systems that can automatically analyze, understand,",Natural language processing deals with understanding human language.,0.8637458682060242,0.14736842105263157,0.69724214,0.5988815247698834
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Natural Language Processing (NLP) in 1-2 concise sentences, similar to how you would describe Artificial Intelligence (AI).
+
+This revised prompt aims to improve clarity by providing a clear direction and example for the response. It also maintains accuracy by ensuring the response is brief and focused on defining NLP. The structure is improved by breaking down the task into smaller, manageable parts, and the usefulness is enhanced by providing a specific example to follow.",few_shot,llama3.2,"Here's a possible definition of Natural Language Processing (NLP) in 1-2 concise sentences:
+
+Natural Language Processing (NLP) refers to the subfield of Artificial Intelligence that deals with the interaction between computers and humans in natural language, enabling machines to understand, interpret, and generate human-like text. NLP involves developing algorithms and statistical models to analyze, process, and generate natural language data, such as text or speech, to achieve specific tasks like sentiment analysis, machine translation, or question answering.",Natural language processing deals with understanding human language.,0.8699160814285278,0.15909090909090906,0.6725148,0.5974481560967185
+Explain supervised learning,"Here is the rewritten prompt:
+
+""Define and explain the concept of supervised learning in machine learning, highlighting its key characteristics, advantages, and common applications. Provide a clear and concise overview of how supervised learning works, including the role of labeled training data and the goal of minimizing error between predicted and actual outputs.""
+
+I made the following changes to improve the prompt:
+
+* Added specific keywords (""define"", ""concept"", ""key characteristics"", ""advantages"", ""common applications"") to clarify the desired level of detail.
+* Changed the phrase ""Explain supervised learning"" to a more descriptive title that sets clear expectations",basic,llama3.2,"**Supervised Learning in Machine Learning: A Comprehensive Overview**
+
+Supervised learning is a fundamental concept in machine learning, where the algorithm learns from labeled data to make predictions on unseen data. In this explanation, we will delve into the key characteristics, advantages, and common applications of supervised learning, as well as its underlying mechanics.
+
+**Key Characteristics of Supervised Learning:**
+
+1. **Labeled Training Data**: The algorithm is trained on a dataset that contains input-output pairs, where each input corresponds to a specific output.
+2. **Predictive Model**: The goal of supervised learning is to learn a",Supervised learning uses labeled data for training.,0.8598930835723877,0.099009900990099,0.6864148,0.5795846401759894
+Provide a structured explanation of supervised learning,"Here is the rewritten prompt:
+
+**Structured Explanation of Supervised Learning**
+
+Please provide a clear and concise overview of supervised learning, including its definition, key concepts (e.g., training data, labels, loss functions), and common applications. Additionally, please highlight any notable differences between supervised learning and other machine learning approaches (e.g., unsupervised, reinforcement).",structured,llama3.2,"**Structured Explanation of Supervised Learning**
+
+Supervised learning is a type of machine learning where the algorithm learns from labeled data to make predictions on new, unseen data. The core idea behind supervised learning is that the algorithm is trained on a dataset that contains input-output pairs, where each pair consists of an input (e.g., image, text) and its corresponding output (e.g., label, class).
+
+**Key Concepts:**
+
+1. **Training Data:** The dataset used to train the model, which typically consists of labeled examples.
+2. **Labels:** The correct outputs or classifications for the training",Supervised learning uses labeled data for training.,0.8565104603767395,0.1188118811881188,0.7347758,0.5986804919372691
+Explain supervised learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of supervised learning, including its definition, key characteristics, and common applications.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by specifying what you want the response to cover (definition, key characteristics, and common applications)
+* Improved accuracy by using precise language (e.g., ""concurrent"" instead of vague terms like ""briefly"")
+* Structured the prompt by breaking it down into specific components
+* Made the prompt more useful by providing a clear outline of what you want to learn about supervised learning",concise,llama3.2,"Here's a concise overview of supervised learning, including its definition, key characteristics, and common applications:
+
+**Definition:** Supervised learning is a type of machine learning where the algorithm learns from labeled data, meaning that each example in the dataset is accompanied by a target output or response variable. The goal is to learn a mapping between input data and the corresponding output labels.
+
+**Key Characteristics:**
+
+1. **Labeled Data**: Supervised learning requires a large amount of labeled data, which serves as the foundation for training the model.
+2. **Predictive Modeling**: The algorithm learns to predict the target",Supervised learning uses labeled data for training.,0.8629722595214844,0.11650485436893204,0.6253365,0.567741330387523
+You are an expert. Explain supervised learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading AI researcher, provide a clear and concise explanation of supervised learning, including its definition, key concepts (e.g., training data, labels, loss functions), and common applications in machine learning.
+
+This revised prompt aims to improve:
+
+1. **Clarity**: By specifying the role (""As a leading AI researcher"") and providing context for the explanation.
+2. **Accuracy**: By defining what ""supervised learning"" means and highlighting key concepts.
+3. **Structure**: By breaking down the request into specific components (definition, key concepts,",role_prompt,llama3.2,"**Supervised Learning: A Comprehensive Overview**
+
+As a leading AI researcher, I'm delighted to provide a clear and concise explanation of supervised learning, a fundamental concept in machine learning.
+
+**Definition:** Supervised learning is a type of machine learning where the algorithm learns from labeled data. In other words, the model is trained on data that has already been annotated with the correct output or target value. The goal is to learn a mapping between input data and the corresponding output labels, enabling the model to make accurate predictions on unseen data.
+
+**Key Concepts:**
+
+1. **Training Data:** The dataset used",Supervised learning uses labeled data for training.,0.8598094582557678,0.09433962264150943,0.6636039,0.5713068525746184
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate supervised learning with a concise example, similar to how you would describe AI as ""intelligence in machines"".
+
+This revised prompt aims to improve:
+
+* **Clarity**: By providing a clear direction on what is expected (defining and illustrating), and using simple language.
+* **Accuracy**: By specifying that the response should be concise, similar to the original description of AI.
+* **Structure**: By breaking down the task into two parts: defining and illustrating, which helps guide the model's understanding.
+* **Usefulness**: By providing a",few_shot,llama3.2,"Here is a rewritten version of the prompt:
+
+**Few-shot Prompt:** Define supervised learning in simple terms, then provide a concise example to illustrate its concept. Use language similar to how AI is described as ""intelligence in machines"" to make it accessible and easy to understand.
+
+This revised prompt aims to improve:
+
+* **Clarity**: By providing clear instructions on what the model should do (define and illustrate) and using simple language.
+* **Accuracy**: By specifying that the response should be concise, similar to the original description of AI.
+* **Structure**: By breaking down the task into two parts:",Supervised learning uses labeled data for training.,0.824525773525238,0.0392156862745098,0.38761508,0.45785954217700403
+Explain unsupervised learning,"Here is the rewritten prompt:
+
+""Provide a clear and concise explanation of unsupervised machine learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and common applications (e.g., anomaly detection, data visualization).""
+
+I made the following improvements:
+
+* Added clarity by defining what ""unsupervised machine learning"" means
+* Improved accuracy by specifying that it's about machine learning, not just learning in general
+* Structured the prompt to include specific topics to cover (definition, key concepts, and applications)
+* Made the prompt more useful by providing examples of common",basic,llama3.2,"Here is a rewritten explanation of unsupervised machine learning:
+
+Unsupervised machine learning is a type of machine learning where the algorithm learns patterns and relationships in data without any prior knowledge of the desired output. Unlike supervised machine learning, which relies on labeled data to train models, unsupervised learning focuses on discovering hidden structures or features within the data.
+
+**Key Concepts:**
+
+1. **Clustering**: Unsupervised clustering algorithms group similar data points into clusters based on their characteristics. Common clustering methods include k-means and hierarchical clustering.
+2. **Dimensionality Reduction**: Techniques like PCA (Principal",Unsupervised learning finds patterns in unlabeled data.,0.8599788546562195,0.101010101010101,0.62052715,0.5604527226000121
+Provide a structured explanation of unsupervised learning,"Here is the rewritten prompt:
+
+**Structured Explanation of Unsupervised Learning**
+
+Please provide a clear and concise overview of unsupervised learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and common applications (e.g., customer segmentation, anomaly detection). Additionally, please highlight any notable advantages or limitations of this type of machine learning approach.",structured,llama3.2,"**Unsupervised Learning: A Comprehensive Overview**
+
+Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in data without prior knowledge of the correct output or labels. The primary goal of unsupervised learning is to identify hidden structures, group similar data points together, or reduce the dimensionality of high-dimensional data.
+
+**Key Concepts:**
+
+1. **Clustering**: Unsupervised clustering algorithms group similar data points into clusters based on their characteristics. Common clustering algorithms include K-Means, Hierarchical Clustering, and DBSCAN.
+2. **Dimensionality Reduction",Unsupervised learning finds patterns in unlabeled data.,0.8594677448272705,0.10869565217391305,0.69453335,0.58475580992906
+Explain unsupervised learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of unsupervised learning, highlighting its key concepts and differences from supervised learning.""
+
+I made the following improvements:
+
+* Added clarity by specifying what you want to know (a ""concise overview"")
+* Improved accuracy by using precise terms like ""key concepts"" and ""differences""
+* Structured the prompt by breaking it down into specific components
+* Made the prompt more useful by providing a clear direction for the response",concise,llama3.2,"Here's a concise overview of unsupervised learning, highlighting its key concepts and differences from supervised learning:
+
+Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in data without any prior knowledge of the correct output. The primary goal of unsupervised learning is to identify hidden structures or groupings within the data.
+
+Key Concepts:
+
+1. **Lack of labeled data**: Unlike supervised learning, where the algorithm receives labeled data (e.g., images with corresponding labels), unsupervised learning relies on unlabeled data.
+2. **Clustering**: Unsupervised algorithms",Unsupervised learning finds patterns in unlabeled data.,0.8710347414016724,0.12371134020618557,0.69062436,0.5927146084837077
+You are an expert. Explain unsupervised learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading expert in machine learning, provide a clear and concise explanation of unsupervised learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and real-world applications.
+
+This revised prompt aims to improve:
+
+1. **Clarity**: By specifying that the expert is ""leading"" in machine learning, it sets a high standard for the response.
+2. **Accuracy**: The phrase ""including its definition, key concepts"" ensures that the explanation covers the essential aspects of unsupervised learning.
+3. **Structure**:",role_prompt,llama3.2,"**Unsupervised Learning: A Comprehensive Overview**
+
+As a leading expert in machine learning, I'm delighted to provide an in-depth explanation of unsupervised learning, a crucial aspect of machine learning that enables systems to discover patterns and relationships in data without prior knowledge or labeled examples.
+
+**Definition:**
+Unsupervised learning is a type of machine learning where the algorithm learns from unlabeled data, identifying hidden patterns, structures, and relationships within the data. The primary goal of unsupervised learning is to discover insights, groupings, or anomalies in the data, rather than making predictions based on labeled",Unsupervised learning finds patterns in unlabeled data.,0.8767877817153931,0.1188118811881188,0.78480345,0.6217997210155619
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate unsupervised learning, using a concise analogy or example to clarify its concept.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This revised prompt specifies that the response should be in the form of an analogy or example.
+* Accuracy: The prompt now accurately conveys the task of defining and illustrating unsupervised learning, rather than simply asking for a definition.
+* Structure: The rewritten prompt has a clear structure, with a specific request for an analogy/example to clarify the concept.",few_shot,llama3.2,"Here's a concise analogy to illustrate unsupervised learning:
+
+Unsupervised learning is like trying to organize a messy room without any labels or instructions. You're given a bunch of random objects (data points) and you need to group them together based on their similarities, but there's no one telling you what categories they belong in.
+
+Imagine you have a box full of different colored balls, each with its own unique texture and shape. Without any prior knowledge about the colors or textures, you can't just start throwing the balls into boxes labeled ""red"" or ""smooth."" Instead, you need to",Unsupervised learning finds patterns in unlabeled data.,0.8512898087501526,0.055045871559633024,0.67187804,0.5585931028794804
+Explain reinforcement learning,"Here is the rewritten prompt:
+
+""Provide a clear and concise explanation of reinforcement learning, including its definition, key concepts (e.g., agents, environments, rewards), and common applications (e.g., game playing, robotics).""
+
+I made the following improvements:
+
+* Added clarity by specifying what aspects of reinforcement learning to cover
+* Improved accuracy by defining key terms and providing specific examples
+* Structured the prompt by breaking it down into clear sections (definition, concepts, applications)
+* Made the prompt more useful by asking for a concise explanation, which will help generate a response that is easy to understand",basic,llama3.2,"Here's a rewritten version of the text based on your suggestions:
+
+Reinforcement Learning: A Clear and Concise Explanation
+
+**Definition**
+
+Reinforcement learning (RL) is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal. The goal of RL is to learn a policy that maps states to actions, with the ultimate objective of maximizing the cumulative reward over time.
+
+**Key Concepts**
+
+* **Agents**: In RL, agents are the entities that interact with the environment and receive rewards or penalties for their actions.
+* **Environments**: Environments",Reinforcement learning learns through rewards and penalties.,0.843715250492096,0.1,0.55328983,0.5334730553627014
+Provide a structured explanation of reinforcement learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of reinforcement learning (RL), including its fundamental concepts, key components, and applications. Please structure your response as follows:
+
+I. Definition and Fundamentals: Clearly define RL, its objectives, and the role of agents, actions, states, rewards, and policies.
+
+II. Key Components: Describe the essential elements of RL, such as Markov decision processes (MDPs), value functions, policy gradients, and exploration-exploitation trade-offs.
+
+III. Applications: Highlight real-world applications of RL in areas like robotics, game",structured,llama3.2,"I. Definition and Fundamentals:
+
+Reinforcement Learning (RL) is a subfield of machine learning that focuses on training agents to make decisions in complex, dynamic environments. The primary objective of RL is to learn a policy that maps states to actions, with the goal of maximizing a cumulative reward signal.
+
+**Key Concepts:**
+
+1. **Agents**: In RL, an agent is an entity that perceives its environment and takes actions to achieve a goal.
+2. **Actions**: Actions are the decisions made by the agent in response to its current state.
+3. **States**: States represent the",Reinforcement learning learns through rewards and penalties.,0.8328946232795715,0.06060606060606061,0.5035181,0.5023951078003103
+Explain reinforcement learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of reinforcement learning, including its core concepts and key differences from other machine learning approaches.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by specifying what you want the response to cover (a ""concise overview"")
+* Improved accuracy by using more precise language (e.g., ""core concepts"" instead of just ""explain"")
+* Structured the prompt by breaking it down into specific components (what, including, and key differences)
+* Made the prompt more useful by specifying what you want to learn about reinforcement learning",concise,llama3.2,"Here's a concise overview of reinforcement learning:
+
+Reinforcement Learning (RL) is a subfield of machine learning that focuses on training agents to make decisions in complex, dynamic environments. The core concepts of RL include:
+
+1. **Agent**: An entity that perceives its environment and takes actions to achieve a goal.
+2. **Environment**: The external world that the agent interacts with, which can be modeled as a Markov decision process (MDP).
+3. **Actions**: The decisions made by the agent, which can have consequences on the environment.
+4. **Rewards**: Feedback signals",Reinforcement learning learns through rewards and penalties.,0.8326923251152039,0.06249999999999999,0.5212535,0.5082029938697815
+You are an expert. Explain reinforcement learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a renowned AI expert, provide a comprehensive explanation of Reinforcement Learning (RL), including its core concepts, key differences from other machine learning approaches, and real-world applications.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By specifying that I'm an ""AI expert"", the prompt sets clear expectations for my response.
+* **Accuracy**: The phrase ""comprehensive explanation"" ensures that my response will cover all essential aspects of RL.
+* **Structure**: The prompt's organization into three distinct parts (core concepts, key differences, and real",role_prompt,llama3.2,"Reinforcement Learning (RL) is a subfield of machine learning that focuses on training agents to make decisions in complex, dynamic environments. It has gained significant attention in recent years due to its ability to handle tasks that require trial and error, such as playing games or navigating uncertain situations.
+
+**Core Concepts:**
+
+1. **Agent**: The agent is the entity that learns and makes decisions based on the environment.
+2. **Environment**: The environment is the external world that the agent interacts with, which can be represented as a state-space and a set of possible actions.
+3. **Actions**:",Reinforcement learning learns through rewards and penalties.,0.8386966586112976,0.07766990291262137,0.5764919,0.5317272049998774
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate reinforcement learning, a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This rewritten prompt clearly states that we want the AI to define and illustrate reinforcement learning.
+* Accuracy: The original prompt mentioned ""intelligence in machines,"" which is not a specific concept related to reinforcement learning. This rewritten prompt accurately focuses on defining and illustrating reinforcement learning.
+* Structure: The original prompt was a",few_shot,llama3.2,"Here's the completed response:
+
+Reinforcement Learning: A Definition and Illustration
+
+Reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties. This type of learning is based on trial and error, where the agent explores its surroundings, takes actions, and observes the consequences of those actions.
+
+**Key Components:**
+
+1. **Agent**: The entity that makes decisions and takes actions in the environment.
+2. **Environment**: The external world that the agent interacts with, which can be a physical space or",Reinforcement learning learns through rewards and penalties.,0.850117027759552,0.099009900990099,0.5538316,0.5358992635318549
+Explain neural networks,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise explanation of how neural networks work, including their architecture, key components (e.g., layers, nodes, weights), and common applications. Please also highlight any notable advantages or limitations of using neural networks in machine learning models.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by specifying what the user wants to know about neural networks
+* Increase accuracy by asking for a clear explanation of how they work, including specific components and applications
+* Enhance structure by breaking down the request into",basic,llama3.2,"Here's a detailed explanation of how neural networks work, their architecture, key components, common applications, advantages, and limitations:
+
+**What are Neural Networks?**
+
+Neural networks are a type of machine learning model inspired by the human brain's structure and function. They consist of layers of interconnected nodes or ""neurons"" that process and transmit information.
+
+**Architecture of Neural Networks**
+
+The architecture of neural networks typically consists of multiple layers, including:
+
+1. **Input Layer**: This layer receives the input data, which can be images, text, audio, or any other type of data.
+2.",Neural networks are systems inspired by the human brain.,0.8692881464958191,0.15841584158415842,0.6513581,0.5906474612727024
+Provide a structured explanation of neural networks,"Here is the rewritten prompt:
+
+**Structured Explanation of Neural Networks**
+
+Please provide a clear and concise overview of neural networks, including their fundamental concepts, architecture, and key components. Specifically, please cover:
+
+1. **Definition**: Define what a neural network is and its primary purpose.
+2. **Architecture**: Describe the typical structure of a neural network, including layers (e.g., input, hidden, output) and connections between them.
+3. **Key Components**: Explain the roles of:
+	* Neurons (nodes)
+	* Synapses (connections)
+	* Activation functions
+	* Back",structured,llama3.2,"**Structured Explanation of Neural Networks**
+
+A neural network is a machine learning model inspired by the structure and function of the human brain. Its primary purpose is to learn and represent complex relationships between inputs and outputs, enabling it to make predictions or decisions based on data.
+
+**Architecture:**
+The typical structure of a neural network consists of multiple layers:
+
+1. **Input Layer**: Receives the input data, which can be images, text, audio, or any other type of data.
+2. **Hidden Layers**: One or more layers that process the input data through complex transformations, allowing the model to learn",Neural networks are systems inspired by the human brain.,0.8638388514518738,0.1308411214953271,0.715376,0.5994006888331654
+Explain neural networks briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of neural networks, including their basic architecture, key components (e.g., layers, nodes), and fundamental principles (e.g., backpropagation).""
+
+This revised prompt aims to:
+
+* Clarify the request by specifying what is meant by ""briefly""
+* Improve accuracy by defining the scope of the explanation
+* Enhance structure by breaking down the topic into specific areas to cover
+* Increase usefulness by providing a clear outline for the response",concise,llama3.2,"Here's a concise overview of neural networks, including their basic architecture, key components, and fundamental principles:
+
+**Basic Architecture:**
+
+A neural network is composed of layers of interconnected nodes or ""neurons."" Each neuron receives one or more inputs, performs a computation on those inputs, and then sends the output to other neurons. The layers are typically arranged in a hierarchical manner, with early layers processing basic features and later layers combining these features to form more complex representations.
+
+**Key Components:**
+
+1. **Layers:** Neural networks consist of multiple layers, each of which applies a transformation to the input data",Neural networks are systems inspired by the human brain.,0.8404405117034912,0.07476635514018691,0.6049349,0.5400865785429412
+You are an expert. Explain neural networks,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading expert in artificial intelligence, provide a comprehensive explanation of neural networks, including their fundamental concepts, architectures, and applications, to help non-experts understand this complex topic.
+
+I made the following improvements:
+
+1. **Clarity**: I added specific details about what the expert should cover (fundamental concepts, architectures, and applications) to ensure a clear understanding of the topic.
+2. **Accuracy**: I emphasized that the expert should provide a comprehensive explanation, implying that the response should be detailed and thorough.
+3. **Structure**: I organized",role_prompt,llama3.2,"Here's a rewritten version of the prompt with the suggested improvements:
+
+**Role Prompt:** As a leading expert in artificial intelligence, provide a comprehensive explanation of neural networks, including their fundamental concepts, architectures, and applications, to help non-experts understand this complex topic.
+
+You made several excellent improvements to the original prompt. Here are some specific suggestions for further refinement:
+
+1. **Specificity**: Consider adding more specificity about what aspects of neural networks you'd like the expert to cover. For example, you could ask them to explain the differences between feedforward and recurrent neural networks, or discuss the various types",Neural networks are systems inspired by the human brain.,0.8357553482055664,0.07339449541284404,0.39753667,0.4755814919367843
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate a fundamental concept in AI, similar to how you would describe ""AI"" as ""intelligence in machines"". Please provide a concise explanation of **neural networks**, including their key characteristics and how they differ from other machine learning approaches.
+
+I made the following changes to improve the prompt:
+
+1. **Clarity**: I rephrased the prompt to make it more explicit about what's being asked, using words like ""define"" and ""illustrate"".
+2. **Accuracy**: I added specific details about what's expected in the",few_shot,llama3.2,"**Defining Neural Networks: A Fundamental Concept in AI**
+
+Neural networks are a type of machine learning approach that mimics the structure and function of the human brain. They consist of layers of interconnected nodes or ""neurons"" that process and transmit information.
+
+**Key Characteristics:**
+
+1. **Distributed Representation**: Neural networks represent data as a distributed representation, where each node in the network learns to recognize patterns in the input data.
+2. **Parallel Processing**: Neural networks can process multiple inputs simultaneously, making them well-suited for tasks like image recognition and natural language processing.
+3. **",Neural networks are systems inspired by the human brain.,0.8612239360809326,0.11881188118811882,0.68517315,0.5856850909124507
+Explain overfitting,"Here is the rewritten prompt:
+
+""Define and illustrate overfitting in machine learning, including its causes, consequences, and strategies for prevention or mitigation. Provide a clear explanation of how overfitting occurs when a model becomes too complex and starts to fit the noise in the training data rather than the underlying patterns.""
+
+I made the following changes to improve the prompt:
+
+* Added specificity by defining what ""overfitting"" means
+* Emphasized the importance of illustration, as visual aids can help clarify complex concepts
+* Broke down the topic into its key components (causes, consequences, and",basic,llama3.2,"Overfitting in Machine Learning: Definition, Causes, Consequences, and Strategies for Prevention or Mitigation
+
+**Definition:** Overfitting is a phenomenon where a machine learning model becomes too specialized to the training data and fails to generalize well to new, unseen data. In other words, the model fits the noise in the training data rather than the underlying patterns.
+
+**Illustration:**
+
+Imagine you're trying to predict house prices based on features like number of bedrooms, square footage, and location. You train a machine learning model using a dataset that includes many houses with varying characteristics. The model learns",Overfitting occurs when a model learns noise instead of patterns.,0.8637423515319824,0.09523809523809525,0.7547878,0.6005047159535545
+Provide a structured explanation of overfitting,"Here is the rewritten prompt:
+
+""Develop a clear and concise, step-by-step explanation of overfitting in machine learning models, including its causes, consequences, and strategies for mitigation. Please provide a logical structure with headings or subheadings to facilitate easy comprehension.""
+
+I made the following changes to improve the prompt:
+
+* Added specific requirements for clarity (""clear and concise"") and accuracy (""step-by-step explanation"")
+* Emphasized the need for a structured approach by mentioning ""logical structure"" and suggesting headings or subheadings
+* Specified the desired outcome (""explanation of overfitting"")",structured,llama3.2,"Here is a rewritten version of the prompt that incorporates your suggested changes:
+
+Develop a clear and concise, step-by-step explanation of overfitting in machine learning models. Please provide an explanation that includes the following components:
+
+**I. Causes of Overfitting**
+
+1.1 Define what overfitting is and its relationship to model complexity
+1.2 Discuss how model parameters can be overly complex or flexible, leading to poor generalization
+1.3 Explain how data preprocessing techniques, such as feature scaling or normalization, can contribute to overfitting
+
+**II. Consequences of Overfitting",Overfitting occurs when a model learns noise instead of patterns.,0.8378518223762512,0.060000000000000005,0.6009722,0.5334323816299439
+Explain overfitting briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Define and briefly describe the concept of overfitting in machine learning, highlighting its causes, effects, and potential consequences for model performance.""
+
+This revised prompt maintains the original meaning while providing more specific guidance on what to include in the explanation.",concise,llama3.2,"Overfitting is a common issue in machine learning that occurs when a model is too complex and fits the training data too closely, resulting in poor generalization performance on unseen data.
+
+Causes of overfitting:
+
+1. **Model complexity**: Using a model with too many parameters or features can lead to overfitting.
+2. **Insufficient training data**: If the training dataset is too small, the model may not have enough information to learn from and may fit the noise in the data rather than the underlying patterns.
+3. **Regularization techniques**: While regularization techniques are used to prevent over",Overfitting occurs when a model learns noise instead of patterns.,0.8757774829864502,0.1333333333333333,0.7074364,0.602541913986206
+You are an expert. Explain overfitting,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading AI/ML expert, provide a clear and concise explanation of overfitting in machine learning, including its causes, consequences, and strategies for mitigation.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By specifying that I'm an ""AI/ML expert"", the prompt sets clear expectations about my expertise.
+* **Accuracy**: The revised prompt ensures that I provide a comprehensive explanation of overfitting, covering its causes, consequences, and mitigation strategies.
+* **Structure**: The prompt is organized into three distinct sections: introduction,",role_prompt,llama3.2,"Overfitting in Machine Learning: Causes, Consequences, and Mitigation Strategies
+
+**What is Overfitting?**
+
+Overfitting is a common problem in machine learning where a model becomes too specialized to the training data and fails to generalize well to new, unseen data. This occurs when a model is too complex or has too many parameters, allowing it to fit the noise and random fluctuations in the training data rather than the underlying patterns.
+
+**Causes of Overfitting**
+
+1. **Model Complexity**: Models with too many parameters can lead to overfitting. For example, a neural",Overfitting occurs when a model learns noise instead of patterns.,0.8651432394981384,0.1414141414141414,0.72157884,0.6049551921360421
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate overfitting in machine learning, using a concise analogy or example to clarify its implications for model performance.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This revised prompt specifies that the response should define and illustrate overfitting.
+* Accuracy: The prompt now accurately reflects the task of defining and illustrating overfitting, rather than simply asking for an explanation.
+* Structure: The prompt is structured to provide clear guidance on what the response should cover (definition, illustration, and implications",few_shot,llama3.2,"Overfitting in machine learning occurs when a model becomes too specialized to the training data and fails to generalize well to new, unseen data. This happens when the model is overly complex or has too many parameters, allowing it to fit the noise in the training data rather than the underlying patterns.
+
+Imagine a painter who spends too much time studying the intricate details of a single painting. They become so focused on capturing every brushstroke and color nuance that they lose sight of the bigger picture. As a result, when they're asked to paint a completely different scene, their work is mediocre at best – it",Overfitting occurs when a model learns noise instead of patterns.,0.8811996579170227,0.11965811965811965,0.7176554,0.6036739400564096
+Explain machine learning,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised learning, neural networks), and applications in various fields (e.g., computer vision, natural language processing, predictive analytics).""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining the topic and specifying what aspects of machine learning should be covered.
+* Increase accuracy by highlighting key concepts and mentioning specific areas where machine learning is applied.
+* Enhance structure by breaking down the",basic,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt you would like me to work on. I'm eager to help you make it more effective and clear.
+",Machine learning is a method where systems learn patterns from data.,0.8483421206474304,0.0,0.016582265,0.3443115282803774
+Provide a structured explanation of machine learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised, regression vs. classification), and major components (e.g., training, testing, evaluation). Please provide a clear and concise explanation of how machine learning works, highlighting its applications, advantages, and limitations.""
+
+I made the following changes to improve the prompt:
+
+* Added specific details about what is expected in the response (comprehensive, step-by-step overview)
+* Clarified key concepts and components of machine learning
+* Emphas",structured,gemma3,"Okay, I understand. I'm ready to help you develop a comprehensive and step-by-step overview of machine learning. Please provide the rewritten prompt. I will focus on providing clear, concise, and accurate explanations of machine learning concepts, its key components, and its applications. I will also strive to be clear and to avoid jargon where possible.
+",Machine learning is a method where systems learn patterns from data.,0.8524304032325745,0.08695652173913043,0.54985356,0.5320151957480804
+Explain machine learning briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of machine learning, including its definition, key concepts (e.g., supervised vs. unsupervised learning, neural networks), and applications in various fields (e.g., computer vision, natural language processing).""
+
+This revised prompt aims to:
+
+* Clarify the request by specifying what is meant by ""briefly"" (a concise overview)
+* Improve accuracy by defining machine learning and highlighting key concepts
+* Enhance structure by breaking down the topic into its main components (definition,",concise,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt. I'll do my best to provide a clear, accurate, structured, and helpful overview of machine learning.
+",Machine learning is a method where systems learn patterns from data.,0.8618003726005554,0.08888888888888888,0.3891325,0.4881265730659167
+You are an expert. Explain machine learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading authority in the field of artificial intelligence, provide a comprehensive overview of machine learning, including its fundamental concepts, types (supervised, unsupervised, and reinforcement), applications, and key challenges.
+
+This revised prompt aims to improve:
+
+* **Clarity**: By specifying the role and expertise required, it's clear what kind of response is expected.
+* **Accuracy**: The prompt provides a more detailed understanding of machine learning, including its types and applications, which will lead to a more accurate response.
+* **Structure**: The prompt breaks down",role_prompt,gemma3,"Okay, I understand. I'm ready to be your AI role prompt. Please provide the rewritten prompt. I'm eager to help you understand and provide a comprehensive overview of machine learning.
+",Machine learning is a method where systems learn patterns from data.,0.8642157912254333,0.09302325581395349,0.35440704,0.4799154103841893
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define ""Machine Learning"" and provide a concise explanation, similar to how you would describe ""AI"" as ""intelligence in machines"".
+
+This revised prompt aims to improve clarity by:
+
+* Clearly stating the task: defining ""Machine Learning""
+* Providing context for the expected response (similar to describing AI)
+* Structuring the prompt with a clear call-to-action
+
+Accuracy is maintained by keeping the same meaning and intent as the original prompt. The style is adapted for a few-shot prompt, which typically involves providing examples or analogies to help clarify the task",few_shot,gemma3,"Okay, I understand. I'm ready to help you define ""Machine Learning"" and provide a concise explanation.
+",Machine learning is a method where systems learn patterns from data.,0.8757098317146301,0.21428571428571427,0.6900896,0.6215965309313365
+Explain artificial intelligence,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a comprehensive overview of artificial intelligence (AI), including its definition, history, key concepts (e.g., machine learning, deep learning, natural language processing), applications in various industries (e.g., healthcare, finance, customer service), and potential benefits and challenges associated with AI adoption.""
+
+This rewritten prompt aims to:
+
+* Clarify the scope by specifying a comprehensive overview
+* Improve accuracy by defining AI and mentioning specific concepts and industries
+* Enhance structure by breaking down the topic into manageable sections",basic,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt you would like me to work on. I'm eager to help you make it more effective and clear.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8424638509750366,0.04347826086956522,0.07775457,0.37335539137863594
+Provide a structured explanation of artificial intelligence,"Here is the rewritten prompt:
+
+""Develop a comprehensive, structured overview of Artificial Intelligence (AI), including its definition, history, key concepts (e.g., machine learning, deep learning, neural networks), applications (e.g., natural language processing, computer vision, robotics), and potential benefits and challenges. Please provide a clear and concise explanation that is easy to understand for a general audience.""
+
+I made the following changes:
+
+* Added specific details about what you want the AI overview to cover (definition, history, key concepts, applications, benefits, and challenges) to improve clarity.
+* Changed ""Provide""",structured,gemma3,"Okay, I understand. I'm ready to help you develop a comprehensive and structured overview of Artificial Intelligence. I will focus on providing clear, concise, and easy-to-understand explanations for a general audience. Let's begin!
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8539528250694275,0.0851063829787234,0.5118639,0.5206722230353255
+Explain artificial intelligence briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of artificial intelligence (AI), including its definition, key concepts, and applications. Please keep your explanation brief and focused on the fundamental principles of AI.""
+
+This revised prompt aims to:
+
+* Improve clarity by defining what is meant by ""briefly""
+* Increase accuracy by specifying that the response should focus on fundamental principles
+* Enhance structure by breaking down the request into specific components (definition, key concepts, applications)
+* Increase usefulness by providing a clear direction for the response",concise,gemma3,"Okay, I understand. I'm ready to help you provide a concise overview of Artificial Intelligence (AI). I will focus on providing a clear, concise, and focused explanation of the fundamental principles of AI.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.862328290939331,0.1818181818181818,0.6019315,0.5800562246279283
+You are an expert. Explain artificial intelligence,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert Explanation**
+
+As a renowned expert in the field of artificial intelligence, provide a comprehensive and accurate overview of AI, including its definition, key concepts, applications, and potential implications for various industries and society as a whole.
+
+This rewritten prompt aims to improve:
+
+* Clarity: By specifying that I'm an ""expert"" and providing context about what kind of expertise is required.
+* Accuracy: By emphasizing the need for a comprehensive and accurate overview, which ensures that the response will be detailed and precise.
+* Structure: By breaking down the request into",role_prompt,gemma3,"Okay, I understand. I am ready to be your expert explanation of AI. Please provide the rewritten prompt. I will do my best to provide a detailed and accurate overview of AI, focusing on its definition, key concepts, applications, and potential implications for various industries and society. I am eager to learn and provide insightful and comprehensive answers.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8457005620002747,0.0588235294117647,0.5444755,0.519269938328687
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Artificial Intelligence (AI)
+
+**Target Response:** Provide a concise explanation of what AI is, including its core concept and significance.
+
+**Clarification:** Please respond with a brief definition that accurately captures the essence of AI, similar to how you would explain it to someone who has never heard of it before.
+
+This rewritten prompt aims to:
+
+1. **Improve Clarity**: By explicitly stating the target response and providing context, the prompt helps ensure that the model understands what's being asked.
+2. **Enhance Accuracy**: The clarification section ensures",few_shot,gemma3,"Okay, I understand. I'm ready to help you with your prompt.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8484001159667969,0.0,0.059814766,0.3573044773191214
+Explain deep learning,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise overview of deep learning, including its definition, key concepts (e.g., neural networks, convolutional layers), and applications in various fields (e.g., computer vision, natural language processing). Please also highlight the benefits and challenges of using deep learning techniques.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining what is meant by ""deep learning"" and specifying the desired level of detail
+* Increase accuracy by mentioning specific concepts and applications that are relevant to deep learning
+*",basic,gemma3,"Okay, I understand. I will provide a clear and concise overview of deep learning, including its definition, key concepts (e.g., neural networks, convolutional layers), and applications in various fields. I will also highlight the benefits and challenges of using deep learning techniques.
+",Deep learning is a subset of machine learning using neural networks.,0.8812594413757324,0.18518518518518515,0.6710243,0.6093666437599394
+Provide a structured explanation of deep learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of deep learning, including its history, key concepts (e.g., neural networks, convolutional layers), and applications (e.g., computer vision, natural language processing). Please provide a clear and concise explanation of how deep learning models are trained, validated, and deployed, as well as their advantages and limitations.""
+
+I made the following changes to improve the prompt:
+
+* Added specific details about what is expected in the response (comprehensive, step-by-step overview)
+* Clarified the scope by mentioning key concepts and applications
+*",structured,gemma3,"Okay, I understand. I will now provide a comprehensive, step-by-step overview of deep learning, including its history, key concepts (e.g., neural networks, convolutional layers), and applications (e.g., computer vision, natural language processing). I will strive to be clear, concise, and provide a thorough explanation of how deep learning models are trained, validated, and deployed.
+",Deep learning is a subset of machine learning using neural networks.,0.8695724010467529,0.14492753623188406,0.6004049,0.5714287027068761
+Explain deep learning briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of deep learning, including its key concepts, advantages, and applications. Please define what deep learning is, how it differs from traditional machine learning, and highlight its most significant contributions to AI research.""
+
+This revised prompt aims to achieve the following improvements:
+
+* Clarity: By specifying that the response should be ""concise"", I've helped ensure that the answer will be brief and easy to understand.
+* Accuracy: The rewritten prompt includes specific terms like ""key concepts"", ""advantages",concise,gemma3,"Okay, I understand. I'm ready to help you with your prompt. Please provide the rewritten prompt.
+",Deep learning is a subset of machine learning using neural networks.,0.8403465747833252,0.0,0.0039761197,0.33733146588783713
+You are an expert. Explain deep learning,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert Explanation**
+
+""Describe the fundamental concepts and principles of Deep Learning, including its history, key components (e.g., neural networks, convolutional layers), and applications in various fields (e.g., computer vision, natural language processing). Provide a clear and concise overview of how Deep Learning differs from traditional machine learning approaches and highlight its advantages and limitations.""
+
+I made the following improvements:
+
+1. **Clarity**: I added specific details about what to cover in the explanation, making it easier for the expert to provide a comprehensive response.
+2. **",role_prompt,gemma3,"Okay, I understand. I'm ready to be your expert explanation. Please provide the rewritten prompt. I will do my best to provide a clear, concise, and informative explanation of Deep Learning.
+",Deep learning is a subset of machine learning using neural networks.,0.8665058016777039,0.13953488372093023,0.58247524,0.5632053652475046
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define ""Deep Learning"" and provide a concise explanation, similar to how you would describe ""AI"" as ""intelligence in machines"".
+
+This revised prompt aims to improve clarity by:
+
+* Clearly stating the task: defining and explaining a concept
+* Providing a specific example for context (AI)
+* Using simple language to convey the idea
+
+Accuracy is improved by:
+
+* Ensuring the prompt is concise and focused on the main topic (deep learning)
+
+Structure is enhanced by:
+
+* Breaking down the prompt into clear sections: definition, explanation, and comparison to",few_shot,gemma3,"Okay, I understand. I'm ready to help you define ""Deep Learning"" and provide a concise explanation. Let's begin!
+",Deep learning is a subset of machine learning using neural networks.,0.8753846287727356,0.19354838709677416,0.7340562,0.6284352230448877
+Explain data science,"Here is the rewritten prompt:
+
+""Provide a clear and concise overview of what data science entails, including its key concepts, methodologies, and applications. Please cover the following aspects: definition, types (e.g., machine learning, statistics), tools and technologies used, common industries or domains where it's applied, and any notable trends or challenges in the field.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by defining what is meant by ""explain"" and specifying the desired level of detail.
+* Improved accuracy by providing a more comprehensive understanding of data science, including its various aspects and applications",basic,gemma3,"Okay, I'm ready to help you refine your prompt. Please provide the rewritten prompt you would like me to use. I will focus on making it more precise, concise, and comprehensive.
+",Data science involves extracting insights from data.,0.8435192704200745,0.0,0.0653055,0.35699936002492905
+Provide a structured explanation of data science,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of data science, including its core concepts, methodologies, and applications. Please structure your response into clear sections or subtopics, such as: 
+
+* Definition and scope of data science
+* Key techniques and tools (e.g., machine learning, statistics, visualization)
+* Data preprocessing and cleaning methods
+* Model development and evaluation strategies
+* Real-world applications and case studies
+* Challenges and limitations in the field
+
+Ensure your explanation is accurate, concise, and easy to follow. Provide relevant examples or analogies to illustrate complex",structured,gemma3,"Okay, I'm ready to develop a comprehensive, step-by-step overview of data science. I will structure my response into clear sections, focusing on the core concepts, methodologies, and applications. I will strive for accuracy, conciseness, and a clear understanding of the subject matter.
+
+Here's the draft:
+
+**Data Science: A Comprehensive Overview**
+
+Data science is the art and science of using data to make informed decisions and solve problems. It involves collecting, analyzing, and interpreting large datasets to extract valuable insights and create actionable solutions. This overview will cover the fundamental",Data science involves extracting insights from data.,0.8598093390464783,0.08000000000000002,0.5705156,0.5390784134864808
+Explain data science briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of data science, including its core concepts, applications, and key benefits. Please define what data science is, how it differs from statistics and machine learning, and highlight its relevance in today's data-driven world.""
+
+This revised prompt aims to:
+
+* Improve clarity by specifying the desired outcome (a concise overview) and providing clear definitions of related terms.
+* Enhance accuracy by ensuring that the response covers the core concepts, applications, and benefits of data science.
+* Strengthen structure by",concise,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt. I will focus on improving clarity, accuracy, structure, and usefulness.
+",Data science involves extracting insights from data.,0.847258985042572,0.0,0.071397014,0.3603226982057095
+You are an expert. Explain data science,"Here is the rewritten prompt:
+
+**Role Prompt:** As a renowned expert in the field of data science, provide a comprehensive overview of this discipline, highlighting its key concepts, methodologies, and applications.
+
+Improvements made:
+
+* Clarity: The prompt now clearly specifies that you are an expert in data science, making it easier for me to understand what is expected.
+* Accuracy: The term ""renowned expert"" adds a level of credibility and accuracy to the prompt, ensuring that I provide a high-quality response.
+* Structure: The prompt is now more structured, with clear expectations on what to cover (",role_prompt,gemma3,"Okay, I'm ready to be your expert on data science. Please provide the rewritten prompt. I will do my best to provide a comprehensive and insightful overview of this fascinating field.
+",Data science involves extracting insights from data.,0.8691277503967285,0.10256410256410256,0.5949559,0.5569071102600832
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Data Science
+
+**Context:** Provide a concise explanation of data science, similar to how you would describe AI as ""intelligence in machines"".
+
+**Example Response:** Data science is [insert clear and accurate definition here].
+
+This rewritten prompt aims to improve clarity by providing a specific task (""Define Data Science"") and context that sets the tone for the response. It also maintains accuracy by ensuring the example response is concise and focused on defining data science. The structure is improved by breaking down the prompt into three distinct parts: context, task, and example response",few_shot,gemma3,"Okay, I understand. I'm ready to receive the rewritten prompt.
+",Data science involves extracting insights from data.,0.8465780019760132,0.0,-0.052732624,0.32281141281127934
+Explain NLP,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and current trends. Please explain how NLP enables computers to understand, interpret, and generate human language, highlighting its potential uses in areas such as text analysis, sentiment analysis, machine translation, and chatbots.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by defining the topic (NLP) and specifying what is expected (a comprehensive overview)
+* Increase accuracy by providing specific examples of applications and",basic,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt you want me to work on. I'm eager to understand the specific aspects you want me to focus on.
+",Natural language processing deals with understanding human language.,0.8425885438919067,0.0,0.15883929,0.3846872039139271
+Provide a structured explanation of NLP,"Here is the rewritten prompt:
+
+""Develop a comprehensive and structured overview of Natural Language Processing (NLP), including its definition, key concepts, applications, and current trends. Please provide a clear and concise explanation that covers the following aspects: 
+
+* Definition and history of NLP
+* Key techniques and algorithms used in NLP (e.g., tokenization, sentiment analysis, named entity recognition)
+* Applications of NLP in various domains (e.g., language translation, text summarization, chatbots)
+* Current trends and advancements in NLP research and development""
+
+I made the following changes to improve",structured,gemma3,"Okay, I'm ready to help you develop a comprehensive and structured overview of Natural Language Processing (NLP). Please provide the rewritten prompt. I will then analyze it and provide a clear and concise explanation that covers the requested aspects. I'm eager to assist you in understanding the field and its potential.
+",Natural language processing deals with understanding human language.,0.858568549156189,0.13114754098360656,0.64020914,0.5748344324162749
+Explain NLP briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of Natural Language Processing (NLP), including its definition, key concepts, and applications. Please highlight the main differences between rule-based and machine learning approaches in NLP.""
+
+This revised prompt aims to:
+
+* Clarify the topic by specifying ""Natural Language Processing""
+* Improve accuracy by defining what NLP is and highlighting key concepts
+* Structure the response by asking for a concise overview and specific details on approaches
+* Increase usefulness by providing context and encouraging the respondent to highlight differences between",concise,gemma3,"Okay, I understand. I'm ready to help you with your NLP prompt. Please provide the rewritten prompt. I will focus on improving clarity, accuracy, structure, and usefulness.
+",Natural language processing deals with understanding human language.,0.848089873790741,0.05555555555555556,0.3788147,0.46954702983299895
+You are an expert. Explain NLP,"Here is the rewritten prompt:
+
+**Role-Prompt: Expert in Natural Language Processing**
+
+**Task:** Provide a comprehensive overview of Natural Language Processing (NLP), including its definition, key concepts, and applications.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By explicitly stating the role and task, it's clear what is expected from the expert.
+* **Accuracy**: The prompt focuses on NLP specifically, avoiding ambiguity or confusion.
+* **Structure**: The task is well-defined, with a clear expectation of providing an overview of NLP.
+* **Usefulness**: The prompt provides specific",role_prompt,gemma3,"Okay, I understand. I'm ready to be your expert in Natural Language Processing. Let's begin!
+",Natural language processing deals with understanding human language.,0.8799557685852051,0.24,0.59095013,0.6012673528194427
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define Natural Language Processing (NLP) in 1-2 concise sentences, similar to how you would describe Artificial Intelligence (AI).
+
+This revised prompt aims to improve clarity by providing a clear direction and example for the response. It also maintains accuracy by ensuring the response is brief and focused on defining NLP. The structure is improved by breaking down the task into smaller, manageable parts, and the usefulness is enhanced by providing a specific example to follow.",few_shot,gemma3,"Okay, I understand. I will now provide the rewritten prompt and the improved version.
+",Natural language processing deals with understanding human language.,0.8393869400024414,0.0,0.036730554,0.3467739425599575
+Explain supervised learning,"Here is the rewritten prompt:
+
+""Define and explain the concept of supervised learning in machine learning, highlighting its key characteristics, advantages, and common applications. Provide a clear and concise overview of how supervised learning works, including the role of labeled training data and the goal of minimizing error between predicted and actual outputs.""
+
+I made the following changes to improve the prompt:
+
+* Added specific keywords (""define"", ""concept"", ""key characteristics"", ""advantages"", ""common applications"") to clarify the desired level of detail.
+* Changed the phrase ""Explain supervised learning"" to a more descriptive title that sets clear expectations",basic,gemma3,"Okay, I understand. I'm ready to help you define and explain supervised learning. Let's begin!
+",Supervised learning uses labeled data for training.,0.874020516872406,0.16666666666666666,0.6411382,0.5919496685266495
+Provide a structured explanation of supervised learning,"Here is the rewritten prompt:
+
+**Structured Explanation of Supervised Learning**
+
+Please provide a clear and concise overview of supervised learning, including its definition, key concepts (e.g., training data, labels, loss functions), and common applications. Additionally, please highlight any notable differences between supervised learning and other machine learning approaches (e.g., unsupervised, reinforcement).",structured,gemma3,"Okay, I understand. I'm ready to provide a structured explanation of supervised learning.
+",Supervised learning uses labeled data for training.,0.878970742225647,0.19047619047619047,0.6066448,0.5907246087278639
+Explain supervised learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of supervised learning, including its definition, key characteristics, and common applications.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by specifying what you want the response to cover (definition, key characteristics, and common applications)
+* Improved accuracy by using precise language (e.g., ""concurrent"" instead of vague terms like ""briefly"")
+* Structured the prompt by breaking it down into specific components
+* Made the prompt more useful by providing a clear outline of what you want to learn about supervised learning",concise,gemma3,"Okay, I understand. I'm ready to help you refine your prompt. Please provide the rewritten prompt you would like me to work on. I'm eager to understand your goals and provide a concise overview of supervised learning.
+",Supervised learning uses labeled data for training.,0.8553543090820312,0.08695652173913043,0.42321062,0.4951918783395187
+You are an expert. Explain supervised learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading AI researcher, provide a clear and concise explanation of supervised learning, including its definition, key concepts (e.g., training data, labels, loss functions), and common applications in machine learning.
+
+This revised prompt aims to improve:
+
+1. **Clarity**: By specifying the role (""As a leading AI researcher"") and providing context for the explanation.
+2. **Accuracy**: By defining what ""supervised learning"" means and highlighting key concepts.
+3. **Structure**: By breaking down the request into specific components (definition, key concepts,",role_prompt,gemma3,"Okay, I understand. I'm ready to be your AI researcher! Please provide the rewritten prompt. I will do my best to provide a clear, concise, and accurate explanation of supervised learning.
+",Supervised learning uses labeled data for training.,0.8597228527069092,0.10256410256410256,0.46074292,0.5128812599640626
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate supervised learning with a concise example, similar to how you would describe AI as ""intelligence in machines"".
+
+This revised prompt aims to improve:
+
+* **Clarity**: By providing a clear direction on what is expected (defining and illustrating), and using simple language.
+* **Accuracy**: By specifying that the response should be concise, similar to the original description of AI.
+* **Structure**: By breaking down the task into two parts: defining and illustrating, which helps guide the model's understanding.
+* **Usefulness**: By providing a",few_shot,gemma3,"Okay, I understand. I'm ready to receive the rewritten prompt.
+",Supervised learning uses labeled data for training.,0.8548970222473145,0.0,-0.022167232,0.33530863905325536
+Explain unsupervised learning,"Here is the rewritten prompt:
+
+""Provide a clear and concise explanation of unsupervised machine learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and common applications (e.g., anomaly detection, data visualization).""
+
+I made the following improvements:
+
+* Added clarity by defining what ""unsupervised machine learning"" means
+* Improved accuracy by specifying that it's about machine learning, not just learning in general
+* Structured the prompt to include specific topics to cover (definition, key concepts, and applications)
+* Made the prompt more useful by providing examples of common",basic,gemma3,"Okay, I'm ready to help you with your prompt. Please provide the rewritten prompt. I will do my best to provide a clear and concise explanation of unsupervised machine learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and common applications (e.g., anomaly detection, data visualization).
+",Unsupervised learning finds patterns in unlabeled data.,0.858307957649231,0.10526315789473684,0.5164063,0.5298240197332282
+Provide a structured explanation of unsupervised learning,"Here is the rewritten prompt:
+
+**Structured Explanation of Unsupervised Learning**
+
+Please provide a clear and concise overview of unsupervised learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and common applications (e.g., customer segmentation, anomaly detection). Additionally, please highlight any notable advantages or limitations of this type of machine learning approach.",structured,gemma3,"Okay, I understand. I'm ready to provide a structured explanation of unsupervised learning.
+",Unsupervised learning finds patterns in unlabeled data.,0.8891664743423462,0.19047619047619047,0.53112054,0.5721456114734922
+Explain unsupervised learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of unsupervised learning, highlighting its key concepts and differences from supervised learning.""
+
+I made the following improvements:
+
+* Added clarity by specifying what you want to know (a ""concise overview"")
+* Improved accuracy by using precise terms like ""key concepts"" and ""differences""
+* Structured the prompt by breaking it down into specific components
+* Made the prompt more useful by providing a clear direction for the response",concise,gemma3,"Okay, I understand. I'm ready to help you with your prompt. Please provide the rewritten prompt.
+",Unsupervised learning finds patterns in unlabeled data.,0.8449131846427917,0.0,-0.009900987,0.3349949776660651
+You are an expert. Explain unsupervised learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading expert in machine learning, provide a clear and concise explanation of unsupervised learning, including its definition, key concepts (e.g., clustering, dimensionality reduction), and real-world applications.
+
+This revised prompt aims to improve:
+
+1. **Clarity**: By specifying that the expert is ""leading"" in machine learning, it sets a high standard for the response.
+2. **Accuracy**: The phrase ""including its definition, key concepts"" ensures that the explanation covers the essential aspects of unsupervised learning.
+3. **Structure**:",role_prompt,gemma3,"Okay, I understand. I will provide a clear and concise explanation of unsupervised learning, including its definition, key concepts, and real-world applications. I will strive to be accurate and comprehensive.
+",Unsupervised learning finds patterns in unlabeled data.,0.8670525550842285,0.10526315789473685,0.48137504,0.5228124869497199
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate unsupervised learning, using a concise analogy or example to clarify its concept.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This revised prompt specifies that the response should be in the form of an analogy or example.
+* Accuracy: The prompt now accurately conveys the task of defining and illustrating unsupervised learning, rather than simply asking for a definition.
+* Structure: The rewritten prompt has a clear structure, with a specific request for an analogy/example to clarify the concept.",few_shot,gemma3,"Okay, I understand. I'm ready to help you with your prompt.
+",Unsupervised learning finds patterns in unlabeled data.,0.8522046208381653,0.0,0.048073262,0.3553038273006678
+Explain reinforcement learning,"Here is the rewritten prompt:
+
+""Provide a clear and concise explanation of reinforcement learning, including its definition, key concepts (e.g., agents, environments, rewards), and common applications (e.g., game playing, robotics).""
+
+I made the following improvements:
+
+* Added clarity by specifying what aspects of reinforcement learning to cover
+* Improved accuracy by defining key terms and providing specific examples
+* Structured the prompt by breaking it down into clear sections (definition, concepts, applications)
+* Made the prompt more useful by asking for a concise explanation, which will help generate a response that is easy to understand",basic,gemma3,"Okay, I understand. I'm ready to help you with your reinforcement learning prompt. Please provide the rewritten prompt. I'm eager to understand the details and generate a clear and concise explanation.
+",Reinforcement learning learns through rewards and penalties.,0.8570992946624756,0.15000000000000002,0.44074062,0.520061908364296
+Provide a structured explanation of reinforcement learning,"Here is the rewritten prompt:
+
+""Develop a comprehensive, step-by-step overview of reinforcement learning (RL), including its fundamental concepts, key components, and applications. Please structure your response as follows:
+
+I. Definition and Fundamentals: Clearly define RL, its objectives, and the role of agents, actions, states, rewards, and policies.
+
+II. Key Components: Describe the essential elements of RL, such as Markov decision processes (MDPs), value functions, policy gradients, and exploration-exploitation trade-offs.
+
+III. Applications: Highlight real-world applications of RL in areas like robotics, game",structured,gemma3,"Okay, I'm ready to develop a comprehensive, step-by-step overview of reinforcement learning. I will structure my response as requested, focusing on the fundamental concepts, key components, and applications.
+
+**I. Definition and Fundamentals**
+
+Reinforcement Learning (RL) is a machine learning paradigm that learns to make decisions by interacting with an environment to maximize a cumulative reward. It's a powerful technique for learning complex strategies and optimizing actions in dynamic and uncertain environments.  The core idea is to learn a policy (a strategy) that maps states to actions, allowing the agent to maximize",Reinforcement learning learns through rewards and penalties.,0.8393236994743347,0.0784313725490196,0.47435227,0.5015645786243327
+Explain reinforcement learning briefly,"Here is the rewritten prompt:
+
+""Provide a concise overview of reinforcement learning, including its core concepts and key differences from other machine learning approaches.""
+
+I made the following changes to improve the prompt:
+
+* Added clarity by specifying what you want the response to cover (a ""concise overview"")
+* Improved accuracy by using more precise language (e.g., ""core concepts"" instead of just ""explain"")
+* Structured the prompt by breaking it down into specific components (what, including, and key differences)
+* Made the prompt more useful by specifying what you want to learn about reinforcement learning",concise,gemma3,"Okay, I understand. I'm ready to provide a concise overview of reinforcement learning. Let's begin!
+",Reinforcement learning learns through rewards and penalties.,0.8727638721466064,0.16666666666666666,0.5323949,0.5588240176439285
+You are an expert. Explain reinforcement learning,"Here is the rewritten prompt:
+
+**Role Prompt:** As a renowned AI expert, provide a comprehensive explanation of Reinforcement Learning (RL), including its core concepts, key differences from other machine learning approaches, and real-world applications.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By specifying that I'm an ""AI expert"", the prompt sets clear expectations for my response.
+* **Accuracy**: The phrase ""comprehensive explanation"" ensures that my response will cover all essential aspects of RL.
+* **Structure**: The prompt's organization into three distinct parts (core concepts, key differences, and real",role_prompt,gemma3,"Okay, I understand. I'm ready to provide a comprehensive explanation of Reinforcement Learning (RL) as an AI expert. I will focus on the core concepts, key differences, and real-world applications. Let's begin!
+",Reinforcement learning learns through rewards and penalties.,0.8462725281715393,0.14285714285714285,0.44625643,0.5152430887733187
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate reinforcement learning, a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This rewritten prompt clearly states that we want the AI to define and illustrate reinforcement learning.
+* Accuracy: The original prompt mentioned ""intelligence in machines,"" which is not a specific concept related to reinforcement learning. This rewritten prompt accurately focuses on defining and illustrating reinforcement learning.
+* Structure: The original prompt was a",few_shot,gemma3,"Okay, I understand. I will now provide the rewritten prompt based on the previous instructions.
+",Reinforcement learning learns through rewards and penalties.,0.8332745432853699,0.0,0.07608663,0.35613580718636517
+Explain neural networks,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a clear and concise explanation of how neural networks work, including their architecture, key components (e.g., layers, nodes, weights), and common applications. Please also highlight any notable advantages or limitations of using neural networks in machine learning models.""
+
+This rewritten prompt aims to:
+
+* Improve clarity by specifying what the user wants to know about neural networks
+* Increase accuracy by asking for a clear explanation of how they work, including specific components and applications
+* Enhance structure by breaking down the request into",basic,gemma3,"Okay, I understand. I'm ready to help you with your prompt. Please provide the rewritten prompt. I will do my best to provide a clear, concise, accurate, structured, and useful explanation of how neural networks work.
+",Neural networks are systems inspired by the human brain.,0.8581101894378662,0.08695652173913043,0.5291532,0.5280770065991774
+Provide a structured explanation of neural networks,"Here is the rewritten prompt:
+
+**Structured Explanation of Neural Networks**
+
+Please provide a clear and concise overview of neural networks, including their fundamental concepts, architecture, and key components. Specifically, please cover:
+
+1. **Definition**: Define what a neural network is and its primary purpose.
+2. **Architecture**: Describe the typical structure of a neural network, including layers (e.g., input, hidden, output) and connections between them.
+3. **Key Components**: Explain the roles of:
+	* Neurons (nodes)
+	* Synapses (connections)
+	* Activation functions
+	* Back",structured,gemma3,"Okay, I understand. I will provide a clear and concise overview of neural networks, including their fundamental concepts, architecture, and key components. I will focus on the requested aspects of neural networks.
+",Neural networks are systems inspired by the human brain.,0.8665298819541931,0.14634146341463417,0.5508698,0.5557753474974052
+Explain neural networks briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Provide a concise overview of neural networks, including their basic architecture, key components (e.g., layers, nodes), and fundamental principles (e.g., backpropagation).""
+
+This revised prompt aims to:
+
+* Clarify the request by specifying what is meant by ""briefly""
+* Improve accuracy by defining the scope of the explanation
+* Enhance structure by breaking down the topic into specific areas to cover
+* Increase usefulness by providing a clear outline for the response",concise,gemma3,"Okay, I understand. I'm ready to help you with your prompt. Please provide the rewritten prompt. I will focus on improving clarity, accuracy, structure, and usefulness.
+",Neural networks are systems inspired by the human brain.,0.8462469577789307,0.05555555555555555,0.06634673,0.3750694690893094
+You are an expert. Explain neural networks,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading expert in artificial intelligence, provide a comprehensive explanation of neural networks, including their fundamental concepts, architectures, and applications, to help non-experts understand this complex topic.
+
+I made the following improvements:
+
+1. **Clarity**: I added specific details about what the expert should cover (fundamental concepts, architectures, and applications) to ensure a clear understanding of the topic.
+2. **Accuracy**: I emphasized that the expert should provide a comprehensive explanation, implying that the response should be detailed and thorough.
+3. **Structure**: I organized",role_prompt,gemma3,"Okay, I'm ready to be your expert on neural networks. I understand the prompt and will strive to provide a comprehensive and informative explanation. Let's begin!
+",Neural networks are systems inspired by the human brain.,0.8650397062301636,0.16216216216216214,0.5760949,0.5674930117420247
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate a fundamental concept in AI, similar to how you would describe ""AI"" as ""intelligence in machines"". Please provide a concise explanation of **neural networks**, including their key characteristics and how they differ from other machine learning approaches.
+
+I made the following changes to improve the prompt:
+
+1. **Clarity**: I rephrased the prompt to make it more explicit about what's being asked, using words like ""define"" and ""illustrate"".
+2. **Accuracy**: I added specific details about what's expected in the",few_shot,gemma3,"Okay, I understand. I'm ready to help you define and illustrate a fundamental concept in AI, similar to how you would describe ""AI"" as ""intelligence in machines."" I will provide a concise explanation of neural networks, including their key characteristics and how they differ from other machine learning approaches.
+",Neural networks are systems inspired by the human brain.,0.8572096824645996,0.06779661016949154,0.57168496,0.5347283519425635
+Explain overfitting,"Here is the rewritten prompt:
+
+""Define and illustrate overfitting in machine learning, including its causes, consequences, and strategies for prevention or mitigation. Provide a clear explanation of how overfitting occurs when a model becomes too complex and starts to fit the noise in the training data rather than the underlying patterns.""
+
+I made the following changes to improve the prompt:
+
+* Added specificity by defining what ""overfitting"" means
+* Emphasized the importance of illustration, as visual aids can help clarify complex concepts
+* Broke down the topic into its key components (causes, consequences, and",basic,gemma3,"Okay, I understand. I'm ready to help you define and illustrate overfitting in machine learning. Let's begin!
+",Overfitting occurs when a model learns noise instead of patterns.,0.8733867406845093,0.06896551724137931,0.61433244,0.5543440886612596
+Provide a structured explanation of overfitting,"Here is the rewritten prompt:
+
+""Develop a clear and concise, step-by-step explanation of overfitting in machine learning models, including its causes, consequences, and strategies for mitigation. Please provide a logical structure with headings or subheadings to facilitate easy comprehension.""
+
+I made the following changes to improve the prompt:
+
+* Added specific requirements for clarity (""clear and concise"") and accuracy (""step-by-step explanation"")
+* Emphasized the need for a structured approach by mentioning ""logical structure"" and suggesting headings or subheadings
+* Specified the desired outcome (""explanation of overfitting"")",structured,gemma3,"Okay, I understand. I'm ready to help you develop a clear and concise explanation of overfitting in machine learning. I will focus on providing a logical structure with headings and subheadings to make the explanation easy to understand. Let's begin!
+",Overfitting occurs when a model learns noise instead of patterns.,0.8528127670288086,0.07692307692307693,0.6086509,0.5467973126814917
+Explain overfitting briefly,"Here is a rewritten version of the prompt that improves clarity, accuracy, structure, and usefulness:
+
+""Define and briefly describe the concept of overfitting in machine learning, highlighting its causes, effects, and potential consequences for model performance.""
+
+This revised prompt maintains the original meaning while providing more specific guidance on what to include in the explanation.",concise,gemma3,"Okay, I understand. I will focus on providing a clear, concise, and informative explanation of overfitting in machine learning, focusing on its causes, effects, and potential consequences.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8642410635948181,0.10810810810810811,0.6189722,0.5638205125525192
+You are an expert. Explain overfitting,"Here is the rewritten prompt:
+
+**Role Prompt:** As a leading AI/ML expert, provide a clear and concise explanation of overfitting in machine learning, including its causes, consequences, and strategies for mitigation.
+
+This rewritten prompt aims to improve:
+
+* **Clarity**: By specifying that I'm an ""AI/ML expert"", the prompt sets clear expectations about my expertise.
+* **Accuracy**: The revised prompt ensures that I provide a comprehensive explanation of overfitting, covering its causes, consequences, and mitigation strategies.
+* **Structure**: The prompt is organized into three distinct sections: introduction,",role_prompt,gemma3,"Okay, I understand. I'm ready to be your AI/ML expert. Please provide the rewritten prompt. I will do my best to provide a clear, concise, and accurate explanation of overfitting in machine learning.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8582077026367188,0.08888888888888888,0.5536151,0.5360342756907145
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,"Here's the rewritten prompt:
+
+**Few-shot Prompt:** Define and illustrate overfitting in machine learning, using a concise analogy or example to clarify its implications for model performance.
+
+Improvements made:
+
+* Clarity: The original prompt was vague about what ""explain"" means. This revised prompt specifies that the response should define and illustrate overfitting.
+* Accuracy: The prompt now accurately reflects the task of defining and illustrating overfitting, rather than simply asking for an explanation.
+* Structure: The prompt is structured to provide clear guidance on what the response should cover (definition, illustration, and implications",few_shot,gemma3,"Okay, I understand. I will now provide the rewritten prompt based on your instructions.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8334103226661682,0.0,0.01684302,0.33841703552752733

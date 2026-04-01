@@ -1,0 +1,636 @@
+prompt,prompt_type,model,response,reference,bertscore,rougeL,embedding_score,final_score
+Explain machine learning,basic,llama3.2,"Machine learning (ML) is a subset of artificial intelligence (AI) that involves training algorithms to learn from data and make predictions or decisions without being explicitly programmed. The goal of ML is to enable machines to improve their performance on a task over time, based on the data they receive.
+
+Here's a breakdown of how machine learning works:
+
+**Key Concepts:**
+
+1. **Data**: Machine learning relies on large amounts of data to train and test algorithms.
+2. **Algorithms**: These are the mathematical models that learn from data and make predictions or decisions.
+3. **Training**: The process of",Machine learning is a method where systems learn patterns from data.,0.8723487854003906,0.12962962962962962,0.763348,0.6168328010373646
+Provide a structured explanation of machine learning,structured,llama3.2,"**Machine Learning: A Comprehensive Overview**
+
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data without being explicitly programmed. It involves training algorithms on large datasets to enable them to make predictions, classify objects, or generate insights.
+
+**Key Components of Machine Learning**
+
+1. **Data**: The foundation of machine learning is high-quality, relevant data. This can come in various forms, such as images, text, audio, or sensor readings.
+2. **Algorithms**: ML algorithms are designed to process and analyze the data. These algorithms can be categorized",Machine learning is a method where systems learn patterns from data.,0.8711847066879272,0.1359223300970874,0.72639275,0.6071684114562655
+Explain machine learning briefly,concise,llama3.2,"Machine learning is a subset of artificial intelligence (AI) that enables computers to learn from data and improve their performance on a specific task without being explicitly programmed.
+
+Here's a brief overview:
+
+**Key Concepts:**
+
+1. **Training Data**: A dataset used to teach the model how to perform a specific task.
+2. **Model**: The algorithm or system that learns from the training data.
+3. **Prediction**: The output of the model when it makes a prediction on new, unseen data.
+
+**How Machine Learning Works:**
+
+1. The model is trained on the training data using an optimization algorithm",Machine learning is a method where systems learn patterns from data.,0.8684836030006409,0.13084112149532712,0.7606216,0.6148322658004048
+You are an expert. Explain machine learning,role_prompt,llama3.2,"Machine learning (ML) is a subset of artificial intelligence (AI) that involves training algorithms to learn from data, make predictions, and improve their performance over time. The goal of ML is to enable machines to automatically improve their accuracy and decision-making capabilities without being explicitly programmed.
+
+**Key Concepts:**
+
+1. **Data**: Machine learning relies on large amounts of data to train and test models. This data can come in various forms, such as images, text, audio, or sensor readings.
+2. **Algorithms**: ML algorithms are designed to process and analyze the data, identifying patterns and relationships",Machine learning is a method where systems learn patterns from data.,0.8805660605430603,0.1320754716981132,0.7869419,0.6279316344913447
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,few_shot,llama3.2,"Here's an example:
+
+Q: What is Machine Learning?
+A: Machine Learning is a type of Artificial Intelligence (AI) that enables machines to learn from data and improve their performance on a specific task without being explicitly programmed.
+
+In other words, Machine Learning allows computers to automatically improve their accuracy and decision-making abilities by analyzing large amounts of data, identifying patterns, and making predictions or taking actions based on that data.",Machine learning is a method where systems learn patterns from data.,0.8922159671783447,0.16867469879518074,0.7673564,0.637695718206555
+Explain artificial intelligence,basic,llama3.2,"Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:
+
+1. Learning: AI systems can learn from data and improve their performance over time.
+2. Problem-solving: AI systems can solve complex problems by analyzing data and making decisions based on that analysis.
+3. Reasoning: AI systems can draw conclusions and make inferences based on the data they have been trained on.
+4. Perception: AI systems can interpret and understand data from sensors, such as images and speech.
+
+There are several types of AI, including:
+
+1.",Artificial intelligence is the simulation of human intelligence in machines.,0.8657271862030029,0.11214953271028037,0.7335142,0.5999900031312604
+Provide a structured explanation of artificial intelligence,structured,llama3.2,"**Artificial Intelligence (AI): A Comprehensive Overview**
+
+**Definition and Scope**
+
+Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. AI encompasses a broad range of disciplines, including machine learning, natural language processing, robotics, and expert systems.
+
+**History of AI**
+
+The concept of AI dates back to ancient Greece, where myths told of artificial beings created by the gods. However, the modern field of AI began in the mid-20th century with the work of pioneers",Artificial intelligence is the simulation of human intelligence in machines.,0.8555890917778015,0.13592233009708737,0.73765415,0.6043085865604066
+Explain artificial intelligence briefly,concise,llama3.2,"Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:
+
+1. Learning: AI systems can learn from data and improve their performance over time.
+2. Problem-solving: AI systems can analyze problems and find solutions using algorithms and rules.
+3. Perception: AI systems can interpret and understand data from sensors, such as images and speech.
+
+AI is used in various applications, including:
+
+1. Virtual assistants (e.g., Siri, Alexa)
+2. Image recognition and object detection
+3. Natural language processing (e.g., chat",Artificial intelligence is the simulation of human intelligence in machines.,0.8567236661911011,0.13592233009708737,0.7395895,0.6053430251704836
+You are an expert. Explain artificial intelligence,role_prompt,llama3.2,"Artificial Intelligence (AI) is a broad field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception.
+
+At its core, AI involves developing algorithms and statistical models that enable computers to process and analyze data, make predictions, and take actions based on that data. The ultimate goal of AI is to create systems that can think, learn, and behave like humans, but with the ability to scale up to solve complex problems in areas such as healthcare, finance, transportation, and more.
+
+There are several",Artificial intelligence is the simulation of human intelligence in machines.,0.8720331788063049,0.12612612612612611,0.735314,0.607245321773194
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,few_shot,llama3.2,"Q: What is Artificial Intelligence (AI)?
+
+A: Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. These systems use algorithms and data to mimic the cognitive abilities of humans, enabling them to interact with and understand their environment in a more intelligent way.
+
+In essence, AI is about creating machines that can think, learn, and act like humans, but with the ability to process vast amounts of information at incredible speeds and scales. This has led to numerous applications across various industries,",Artificial intelligence is the simulation of human intelligence in machines.,0.8699488043785095,0.14414414414414414,0.77959037,0.6250998873968383
+Explain deep learning,basic,llama3.2,"Deep learning is a subset of machine learning that involves the use of artificial neural networks (ANNs) to analyze and interpret data. It's called ""deep"" because these ANNs have multiple layers, which allows them to learn complex patterns in data.
+
+**History**
+
+The concept of deep learning dates back to the 1940s, when Warren McCulloch and Walter Pitts proposed a model for artificial neural networks that mimicked the human brain. However, it wasn't until the 1980s that the idea of multi-layered ANNs was revived by researchers like David Rumelhart,",Deep learning is a subset of machine learning using neural networks.,0.8862795829772949,0.19607843137254902,0.7191447,0.6290787851109225
+Provide a structured explanation of deep learning,structured,llama3.2,"**Deep Learning: A Comprehensive Overview**
+
+Deep learning is a subset of machine learning that involves the use of artificial neural networks (ANNs) to analyze and interpret data. These ANNs are designed to mimic the structure and function of the human brain, allowing them to learn complex patterns and relationships in data.
+
+**History of Deep Learning**
+
+The concept of deep learning dates back to the 1940s, when Warren McCulloch and Walter Pitts proposed a neural network model that consisted of multiple layers. However, it wasn't until the 1980s that the idea of multi-layer perceptr",Deep learning is a subset of machine learning using neural networks.,0.879517674446106,0.18867924528301885,0.70110285,0.6187417021899853
+Explain deep learning briefly,concise,llama3.2,"Deep learning is a subset of machine learning that uses artificial neural networks to analyze and interpret data. Here's a brief overview:
+
+**Key Concepts:**
+
+1. **Artificial Neural Networks (ANNs):** Inspired by the human brain, ANNs consist of layers of interconnected nodes (neurons) that process and transmit information.
+2. **Deep Learning:** Refers to the use of multiple layers in ANNs, typically 3 or more, to learn complex patterns and relationships in data.
+3. **Convolutional Neural Networks (CNNs):** A type of deep learning model designed for",Deep learning is a subset of machine learning using neural networks.,0.8785114884376526,0.20833333333333334,0.76727116,0.6440859466791153
+You are an expert. Explain deep learning,role_prompt,llama3.2,"Deep learning is a subset of machine learning that involves the use of artificial neural networks (ANNs) to analyze and interpret data. It's a type of supervised, unsupervised, or reinforcement learning where the model learns from large amounts of data, typically in the form of images, speech, text, or other types of structured or unstructured data.
+
+**Key Characteristics:**
+
+1. **Complexity**: Deep learning models are composed of multiple layers, each with a specific function. The number of layers can range from a few to hundreds.
+2. **Non-linearity**: Each layer in the",Deep learning is a subset of machine learning using neural networks.,0.8742660284042358,0.19417475728155342,0.77600104,0.6407591583370005
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,few_shot,llama3.2,"Q: What is Deep Learning?
+
+A: Deep learning is a subset of machine learning that involves the use of artificial neural networks (ANNs) with multiple layers to analyze and interpret data. These ANNs are designed to mimic the structure and function of the human brain, allowing them to learn complex patterns and relationships in data.
+
+The term ""deep"" refers to the fact that these neural networks have many layers, typically between 3-10 or more, which allows them to capture increasingly abstract representations of the input data. This is in contrast to traditional machine learning methods, which often rely on a single",Deep learning is a subset of machine learning using neural networks.,0.8850841522216797,0.17699115044247787,0.79628354,0.6460160808753123
+Explain data science,basic,llama3.2,"Data Science is a multidisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data. It involves the use of various techniques, tools, and methods to analyze, interpret, and communicate complex data-driven information.
+
+The main goals of Data Science are:
+
+1. **Data Analysis**: To extract insights and patterns from large datasets using statistical and machine learning techniques.
+2. **Data Mining**: To discover hidden patterns, relationships, and trends in data that can inform business decisions or solve problems.
+3. **Predictive Modeling",Data science involves extracting insights from data.,0.8858506679534912,0.1188118811881188,0.71529883,0.6045734869371546
+Provide a structured explanation of data science,structured,llama3.2,"**Data Science: A Comprehensive Overview**
+
+Data science is a multidisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from data. It involves the use of various techniques, tools, and methods to analyze, interpret, and communicate complex data-driven information.
+
+**Key Components of Data Science:**
+
+1. **Data**: The foundation of data science is high-quality, relevant, and structured data. This can come in various forms, such as text, images, audio, or video.
+2. **Analysis**: Data analysis involves using statistical and",Data science involves extracting insights from data.,0.8722988963127136,0.10416666666666666,0.71756864,0.5954401522874833
+Explain data science briefly,concise,llama3.2,"Data Science is a multidisciplinary field that combines elements of computer science, statistics, and domain-specific knowledge to extract insights and knowledge from data. It involves:
+
+1. **Data Collection**: Gathering relevant data from various sources.
+2. **Data Cleaning**: Preparing the data for analysis by handling missing values, outliers, and errors.
+3. **Data Analysis**: Applying statistical and machine learning techniques to identify patterns, trends, and correlations in the data.
+4. **Data Visualization**: Presenting findings in a clear and concise manner using visualizations such as plots, charts, and graphs.
+5.",Data science involves extracting insights from data.,0.8843479752540588,0.10526315789473685,0.74855053,0.6098833007247825
+You are an expert. Explain data science,role_prompt,llama3.2,"Data Science is a fascinating field that combines elements of computer science, statistics, and domain-specific knowledge to extract insights and knowledge from data. Here's a comprehensive overview:
+
+**What is Data Science?**
+
+Data Science is the process of extracting valuable information, patterns, and insights from large datasets using various techniques such as machine learning, statistical modeling, and data visualization.
+
+**Key Components of Data Science:**
+
+1. **Data**: The foundation of Data Science is high-quality, relevant, and structured data. This can come in various forms, including text, images, audio, and video.
+2. **",Data science involves extracting insights from data.,0.8834301829338074,0.12121212121212122,0.7080294,0.6021445352922787
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,few_shot,llama3.2,"Q: What is Data Science?
+
+A: Data Science is the process of extracting insights and knowledge from structured and unstructured data using various techniques, tools, and algorithms to drive informed decision-making in organizations. It involves a combination of computer science, statistics, mathematics, and domain expertise to analyze complex data sets, identify patterns, and develop predictive models that can inform business strategies and improve outcomes.",Data science involves extracting insights from data.,0.8964453339576721,0.16666666666666666,0.7425674,0.6313483625650407
+Explain NLP,basic,llama3.2,"NLP stands for Natural Language Processing, which is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. It's a complex field that involves understanding, interpreting, and generating human language.
+
+The primary goal of NLP is to enable computers to process, understand, and generate human language in a way that is both accurate and contextually relevant. This involves developing algorithms and statistical models that can analyze and interpret the structure and meaning of natural language.
+
+Some key aspects of NLP include:
+
+1. **Text Analysis**: NLP involves analyzing text data to",Natural language processing deals with understanding human language.,0.8731431365013123,0.14953271028037382,0.6874474,0.6003512992758617
+Provide a structured explanation of NLP,structured,llama3.2,"**Natural Language Processing (NLP)**
+
+**Definition:** Natural Language Processing is a subfield of artificial intelligence that deals with the interaction between computers and humans in natural language. It involves the development of algorithms, statistical models, and machine learning techniques to process, understand, and generate human language.
+
+**Key Components:**
+
+1. **Text Preprocessing**: Cleaning and normalizing text data to remove noise, punctuation, and special characters.
+2. **Tokenization**: Breaking down text into individual words or tokens.
+3. **Part-of-Speech (POS) Tagging**: Identifying the grammatical",Natural language processing deals with understanding human language.,0.8626070618629456,0.15730337078651688,0.770239,0.6233055465676811
+Explain NLP briefly,concise,llama3.2,"NLP stands for Natural Language Processing. It's a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language.
+
+In essence, NLP aims to enable computers to:
+
+1. Understand human language
+2. Interpret meaning from text or speech
+3. Generate human-like responses
+
+NLP involves various techniques such as:
+
+* Text analysis (tokenization, sentiment analysis)
+* Speech recognition
+* Machine translation
+* Dialogue systems
+
+The ultimate goal of NLP is to create machines that can communicate effectively with humans, making it a crucial technology for applications like",Natural language processing deals with understanding human language.,0.8630526661872864,0.14285714285714288,0.6484512,0.5826135839734758
+You are an expert. Explain NLP,role_prompt,llama3.2,"Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. It's a complex field that involves understanding, interpreting, and generating human language.
+
+**What does NLP do?**
+
+NLP enables computers to:
+
+1. **Understand** human language: NLP helps computers comprehend the meaning of text, speech, or other forms of human communication.
+2. **Interpret** context: NLP takes into account the nuances of language, such as idioms, sarcasm, and figurative language.
+3",Natural language processing deals with understanding human language.,0.8742012977600098,0.17777777777777776,0.7392825,0.6247986080249152
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,few_shot,llama3.2,"Q: What is NLP?
+
+A: NLP stands for Natural Language Processing, which refers to the interaction between computers and humans in natural language. It's a subfield of artificial intelligence (AI) that deals with the interaction between computers and human language.
+
+In simpler terms, NLP is about enabling computers to understand, interpret, and generate human language, such as text or speech. This includes tasks like:
+
+* Text analysis: extracting meaning from text data
+* Sentiment analysis: determining the emotional tone of a piece of text
+* Language translation: converting text from one language to another
+",Natural language processing deals with understanding human language.,0.8667981624603271,0.14,0.5994785,0.5685628099441529
+Explain supervised learning,basic,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data. In this approach, the algorithm is trained on a dataset that contains input-output pairs, where each input corresponds to a specific output.
+
+Here's how it works:
+
+1. **Data collection**: A large dataset is collected, which includes both input features (e.g., images, text, audio) and corresponding labels or outputs (e.g., class labels, regression targets).
+2. **Model training**: The algorithm is trained on the labeled data using a supervised learning algorithm, such as linear regression, decision trees, random",Supervised learning uses labeled data for training.,0.8639482855796814,0.0980392156862745,0.6998931,0.5849590199835161
+Provide a structured explanation of supervised learning,structured,llama3.2,"**Supervised Learning**
+
+Supervised learning is a type of machine learning where the algorithm learns from labeled data. The goal of supervised learning is to learn a mapping between input data and output labels, so that the algorithm can make predictions on new, unseen data.
+
+**Key Components:**
+
+1. **Training Data**: A dataset consisting of input samples (e.g., images, text) and their corresponding output labels.
+2. **Model**: A mathematical function that takes in input data and produces an output prediction.
+3. **Loss Function**: A measure of how well the model's predictions match the actual",Supervised learning uses labeled data for training.,0.8557303547859192,0.099009900990099,0.72223914,0.5886668621608526
+Explain supervised learning briefly,concise,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data. In this approach, the algorithm is trained on a dataset that includes input features and corresponding output labels or targets.
+
+The goal of supervised learning is to learn a mapping between inputs and outputs, so that the algorithm can make predictions on new, unseen data. The algorithm is typically trained using an optimization algorithm, such as gradient descent, to minimize the difference between its predicted outputs and the actual labels.
+
+Supervised learning algorithms are often used for tasks such as:
+
+* Classification (e.g., spam vs. non-spam emails",Supervised learning uses labeled data for training.,0.8682516813278198,0.09090909090909091,0.6847358,0.5799941472031853
+You are an expert. Explain supervised learning,role_prompt,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data, meaning that each example in the dataset has a corresponding target or response variable that it's trying to predict.
+
+Here's a breakdown of how supervised learning works:
+
+**Key Components:**
+
+1. **Training Data**: A dataset consisting of input features (e.g., images, text, audio) and their corresponding output labels.
+2. **Model**: A mathematical function that takes the input features as input and produces an output prediction.
+3. **Loss Function**: A measure of how well the model is performing on a given",Supervised learning uses labeled data for training.,0.8576875329017639,0.09615384615384615,0.64867514,0.5665237160829398
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,few_shot,llama3.2,"Q: What is Supervised Learning?
+
+A: Supervised learning is a type of machine learning where the algorithm learns from labeled data, meaning that the data has been annotated or tagged with the correct output or response. The goal of supervised learning is to train the model to make predictions on new, unseen data based on the patterns and relationships learned from the labeled training data.
+
+In other words, supervised learning involves:
+
+1. **Labeled data**: Data that has been annotated or labeled with the correct output or response.
+2. **Training**: The algorithm learns from the labeled data to identify patterns and relationships",Supervised learning uses labeled data for training.,0.8594147562980652,0.09259259259259259,0.7043934,0.5828617112504112
+Explain unsupervised learning,basic,llama3.2,"Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in the data without any prior knowledge or labels. The goal of unsupervised learning is to identify hidden structures, groupings, or anomalies in the data.
+
+In supervised learning, the algorithm is trained on labeled data, where each example has a corresponding output label. In contrast, unsupervised learning relies solely on the input data and does not require any prior knowledge or labels.
+
+Types of Unsupervised Learning:
+
+1. **Clustering**: The algorithm groups similar data points into clusters based on their characteristics.
+2",Unsupervised learning finds patterns in unlabeled data.,0.8715876936912537,0.0970873786407767,0.74525994,0.6013392821967023
+Provide a structured explanation of unsupervised learning,structured,llama3.2,"**Unsupervised Learning**
+
+Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in the data without any prior knowledge or labels. The goal of unsupervised learning is to identify hidden structures, groupings, or anomalies in the data.
+
+**Key Characteristics:**
+
+1. **No labeled data**: Unsupervised learning does not require labeled data, which means that there are no predefined output values for the algorithm to learn from.
+2. **Self-discovery**: The algorithm must discover patterns and relationships on its own, without any external guidance or supervision.
+3.",Unsupervised learning finds patterns in unlabeled data.,0.8662366271018982,0.10309278350515463,0.73030573,0.5965142142219643
+Explain unsupervised learning briefly,concise,llama3.2,"Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in data without any prior knowledge or labeled examples. The goal is to identify hidden structures, groupings, or anomalies in the data.
+
+In unsupervised learning:
+
+1. No target variable or output label is provided.
+2. The algorithm must find meaning on its own.
+3. Clustering, dimensionality reduction, and anomaly detection are common applications of unsupervised learning.
+
+Examples include:
+
+* K-means clustering
+* Hierarchical clustering
+* Principal Component Analysis (PCA)
+* Autoencoders
+
+Un",Unsupervised learning finds patterns in unlabeled data.,0.8523515462875366,0.10989010989010989,0.73067904,0.5931113769392391
+You are an expert. Explain unsupervised learning,role_prompt,llama3.2,"Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in the data without any prior knowledge or labels. The goal of unsupervised learning is to identify hidden structures, groupings, or anomalies in the data.
+
+In supervised learning, the algorithm is trained on labeled data, where each example has a corresponding output label. In contrast, unsupervised learning relies solely on the input data and does not require any prior knowledge or labels.
+
+Types of Unsupervised Learning:
+
+1. **Clustering**: The goal of clustering is to group similar data points into clusters based on",Unsupervised learning finds patterns in unlabeled data.,0.8690016269683838,0.09615384615384615,0.7443992,0.599766573539147
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,few_shot,llama3.2,"Q: What is Unsupervised Learning?
+
+A: Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships in data without any prior knowledge or labeled examples. In other words, it's like trying to find hidden connections between things when you don't know what they are.
+
+Think of it like this: Imagine you're on a hike and you come across a group of people who seem to be doing something interesting together. You might not know what they're doing, but by observing their behavior, you can start to notice patterns and make educated guesses about what's going on",Unsupervised learning finds patterns in unlabeled data.,0.8638822436332703,0.08849557522123895,0.6883582,0.578609029302555
+Explain reinforcement learning,basic,llama3.2,"Reinforcement Learning (RL) is a type of machine learning that involves training an agent to take actions in an environment to maximize a reward signal. The goal of RL is to learn a policy that maps states to actions, such as navigating a robot through a maze or playing a game like Go.
+
+**Key Components:**
+
+1. **Agent**: The entity that learns and takes actions in the environment.
+2. **Environment**: The external world that the agent interacts with.
+3. **Actions**: The decisions made by the agent in response to the current state of the environment.
+4. **Reward",Reinforcement learning learns through rewards and penalties.,0.8388862609863281,0.07766990291262137,0.57886815,0.5325159324025646
+Provide a structured explanation of reinforcement learning,structured,llama3.2,"**Reinforcement Learning (RL) Overview**
+
+Reinforcement learning is a type of machine learning that involves training an agent to take actions in an environment to maximize a reward signal. The goal of RL is to learn a policy that maps states to actions, such that the cumulative reward over time is maximized.
+
+**Key Components of Reinforcement Learning**
+
+1. **Agent**: The entity that learns and takes actions in the environment.
+2. **Environment**: The external world that the agent interacts with.
+3. **Actions**: The decisions made by the agent in response to the current state of the",Reinforcement learning learns through rewards and penalties.,0.8378387689590454,0.07920792079207921,0.6112876,0.54228416495394
+Explain reinforcement learning briefly,concise,llama3.2,"Reinforcement Learning (RL) is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal. The goal is to learn a policy that maps states to actions, and the agent receives feedback in the form of rewards or penalties for its actions.
+
+Here's a brief overview:
+
+1. **Agent**: An entity that interacts with the environment.
+2. **Environment**: The external world that responds to the agent's actions.
+3. **Actions**: The decisions made by the agent.
+4. **Reward**: A numerical signal indicating whether the action was good or",Reinforcement learning learns through rewards and penalties.,0.8452379107475281,0.09615384615384615,0.5969552,0.5460278841165397
+You are an expert. Explain reinforcement learning,role_prompt,llama3.2,"Reinforcement Learning (RL) is a subfield of Machine Learning that focuses on training agents to make decisions in complex, uncertain environments by interacting with an external world. The goal of RL is to learn a policy that maps states to actions, such as navigating a robot through a maze or playing a game like Go.
+
+**Key Components of Reinforcement Learning:**
+
+1. **Agent**: The agent is the entity that learns and makes decisions in the environment.
+2. **Environment**: The environment is the external world that the agent interacts with.
+3. **Actions**: The actions are the possible choices",Reinforcement learning learns through rewards and penalties.,0.8324874639511108,0.07766990291262137,0.5929086,0.5341685546254649
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,few_shot,llama3.2,"Q: What is Reinforcement Learning?
+
+A: Reinforcement Learning (RL) is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal. The goal of RL is to learn a policy that maps states to actions, with the ultimate objective of maximizing a cumulative reward over time.
+
+Here's a breakdown:
+
+* **Agent**: The entity that interacts with the environment and takes actions.
+* **Environment**: The external world that responds to the agent's actions.
+* **Actions**: The decisions made by the agent in response to the current state of the environment.
+",Reinforcement learning learns through rewards and penalties.,0.8370092511177063,0.07692307692307693,0.5287993,0.5165204121516301
+Explain neural networks,basic,llama3.2,"Neural Networks are a fundamental concept in Machine Learning and Artificial Intelligence. Here's an overview:
+
+**What is a Neural Network?**
+
+A neural network is a computer system inspired by the structure and function of the human brain. It consists of layers of interconnected nodes or ""neurons"" that process and transmit information.
+
+**How do Neural Networks Work?**
+
+Neural networks are designed to mimic the way our brains process information:
+
+1. **Input Layer**: The input layer receives data, such as images, text, or audio.
+2. **Hidden Layers**: One or more hidden layers process the input",Neural networks are systems inspired by the human brain.,0.8739411234855652,0.15533980582524273,0.6949025,0.6046491380166082
+Provide a structured explanation of neural networks,structured,llama3.2,"**Introduction to Neural Networks**
+
+Neural networks are a fundamental concept in machine learning and artificial intelligence. They are inspired by the structure and function of the human brain, with layers of interconnected nodes (neurons) that process and transmit information.
+
+**Components of a Neural Network**
+
+A typical neural network consists of:
+
+1. **Artificial Neurons (Nodes)**: These are the basic computing units of the network, which receive one or more inputs and produce an output.
+2. **Connections (Edges)**: These represent the links between nodes, allowing them to exchange information.
+3. **Activation Functions",Neural networks are systems inspired by the human brain.,0.8664495944976807,0.16161616161616163,0.7393675,0.6168749377583013
+Explain neural networks briefly,concise,llama3.2,"Here's a brief overview of neural networks:
+
+**What is a Neural Network?**
+
+A neural network is a computer system inspired by the structure and function of the human brain. It consists of layers of interconnected nodes or ""neurons"" that process and transmit information.
+
+**How Does it Work?**
+
+1. **Input**: Data is fed into the network.
+2. **Activation**: The data is processed by each node (neuron) in the layer, using a non-linear function (activation function).
+3. **Output**: The output of each node is passed to the next layer.
+4.",Neural networks are systems inspired by the human brain.,0.867966890335083,0.1414141414141414,0.6651489,0.5891556816570687
+You are an expert. Explain neural networks,role_prompt,llama3.2,"Neural Networks! One of the most fascinating and powerful concepts in artificial intelligence (AI). As an expert, I'd be delighted to explain neural networks in detail.
+
+**What is a Neural Network?**
+
+A neural network is a machine learning model inspired by the structure and function of the human brain. It's composed of interconnected nodes or ""neurons"" that process and transmit information. Each node receives one or more inputs, performs a computation on those inputs, and then sends the output to other nodes.
+
+**Key Components of a Neural Network:**
+
+1. **Artificial Neurons (Nodes)**",Neural networks are systems inspired by the human brain.,0.8677667379379272,0.13592233009708737,0.69023716,0.5949545495139742
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,few_shot,llama3.2,"Q: What are Neural Networks?
+
+A: Neural networks are a fundamental component of Artificial Intelligence (AI) and Machine Learning (ML). They are inspired by the structure and function of the human brain, consisting of interconnected nodes or ""neurons"" that process and transmit information.
+
+Imagine a network of interconnected nodes, each representing a neuron in the brain. Just like how neurons communicate with each other through synapses, neural networks use complex algorithms to enable machines to learn from data and make predictions or decisions.
+
+Key Components of Neural Networks:
+
+1. **Artificial Neurons (Nodes)**: These are the",Neural networks are systems inspired by the human brain.,0.8649792075157166,0.15384615384615383,0.7097603,0.6050736305805352
+Explain overfitting,basic,llama3.2,"Overfitting is a common problem in machine learning and deep learning where a model becomes too specialized to the training data and fails to generalize well to new, unseen data. In other words, a model that has been trained on a small dataset may perform extremely well on that specific dataset but performs poorly or not at all when applied to a larger, more diverse dataset.
+
+There are several reasons why overfitting occurs:
+
+1. **Model complexity**: When the model is too complex, it can fit the noise in the training data rather than the underlying patterns.
+2. **Insufficient training data**: If",Overfitting occurs when a model learns noise instead of patterns.,0.875576913356781,0.10810810810810811,0.6402289,0.5747318788960173
+Provide a structured explanation of overfitting,structured,llama3.2,"**Overfitting: A Comprehensive Explanation**
+
+**Definition:** Overfitting is a phenomenon in machine learning where a model becomes too specialized to the training data and fails to generalize well to new, unseen data. In other words, the model performs exceptionally well on the training dataset but poorly on test datasets.
+
+**Causes of Overfitting:**
+
+1. **Model Complexity**: Using a model that is too complex can lead to overfitting. Models with many parameters are more prone to overfitting because they have more opportunities to fit the noise in the training data.
+2. **Insufficient",Overfitting occurs when a model learns noise instead of patterns.,0.8530470728874207,0.08080808080808081,0.71263134,0.5792506717371219
+Explain overfitting briefly,concise,llama3.2,"Overfitting is a phenomenon in machine learning where a model becomes too specialized to the training data and fails to generalize well to new, unseen data. This occurs when a model is too complex or has too many parameters, allowing it to fit the noise and random fluctuations in the training data, rather than capturing the underlying patterns.
+
+As a result, the model performs well on the training data but poorly on test data, making it useless for real-world applications where new data may be encountered. Overfitting can be mitigated through techniques such as regularization, early stopping, and ensemble methods.",Overfitting occurs when a model learns noise instead of patterns.,0.8840914368629456,0.12612612612612611,0.7443538,0.6147805469261632
+You are an expert. Explain overfitting,role_prompt,llama3.2,"Overfitting is a fundamental concept in machine learning and statistics that refers to the phenomenon where a model becomes too specialized to the training data and fails to generalize well to new, unseen data.
+
+In other words, when a model is trained on a small dataset, it can learn the intricacies of the training data so well that it becomes overly complex and starts to fit the noise in the data rather than the underlying patterns. This results in poor performance on new, unseen data.
+
+Here are some key characteristics of overfitting:
+
+1. **Model complexity**: Overfitting often occurs when a model is",Overfitting occurs when a model learns noise instead of patterns.,0.8793480396270752,0.10714285714285714,0.7456304,0.6075711969818388
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,few_shot,llama3.2,"Q: What is Overfitting?
+
+A: Overfitting is a phenomenon where a machine learning model becomes too specialized to the training data and fails to generalize well to new, unseen data. In other words, it's when a model fits the noise in the training data rather than the underlying patterns.
+
+Think of it like trying to recognize faces in a dataset that includes many images of celebrities, but not real people. If you train a model on this dataset, it might become so good at recognizing celebrity faces that it struggles to recognize actual human faces. This is because the model has learned to fit",Overfitting occurs when a model learns noise instead of patterns.,0.876370370388031,0.1043478260869565,0.7551825,0.6084072622786397
+Explain machine learning,basic,gemma3,"Machine learning (ML) is a powerful subset of Artificial Intelligence (AI) that allows computers to learn from data without being explicitly programmed. Instead of being told exactly what to do, ML algorithms learn patterns and make predictions based on the data they've been trained on. This learning process is often referred to as ""learning.""
+
+Here's a breakdown of key concepts:
+
+* **Data:** ML algorithms work with data. The more data available, the better the model can learn.
+* **Algorithms:** ML algorithms are designed to solve specific problems. They use mathematical principles to identify patterns and",Machine learning is a method where systems learn patterns from data.,0.8858374357223511,0.1320754716981132,0.839671,0.6458589443620646
+Provide a structured explanation of machine learning,structured,gemma3,"## Machine Learning: A Structured Explanation
+
+Machine learning (ML) is a powerful subset of Artificial Intelligence (AI) that enables computers to learn from data without being explicitly programmed. It's a field of research that uses algorithms to analyze data and make predictions or decisions based on that data.
+
+Here's a structured breakdown of what machine learning is and its key components:
+
+**1. Core Concepts:**
+
+* **Data:** ML algorithms require large amounts of labeled data to learn effectively. This data typically includes both labeled and unlabeled data.
+* **Algorithms:** ML algorithms are designed to process",Machine learning is a method where systems learn patterns from data.,0.8672380447387695,0.1346153846153846,0.6895269,0.5941379168858895
+Explain machine learning briefly,concise,gemma3,"Machine learning is a type of artificial intelligence that uses algorithms to learn from data without being explicitly programmed. It's inspired by how humans learn and make decisions. 
+
+Here's a breakdown:
+
+*   **Data:** It relies on data to train models.
+*   **Algorithms:**  Algorithms are sets of rules or steps that the model follows to identify patterns and make predictions.
+*   **Learning:** The model learns from the data to improve its performance over time.
+*   **Prediction:**  Once trained, the model can be used to make predictions on new, unseen",Machine learning is a method where systems learn patterns from data.,0.8691663146018982,0.16494845360824745,0.81011605,0.6401858866521993
+You are an expert. Explain machine learning,role_prompt,gemma3,"Okay, I'm ready to explain machine learning. Let's dive in! 
+",Machine learning is a method where systems learn patterns from data.,0.8777267336845398,0.17391304347826086,0.504439,0.5545963143524917
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,few_shot,gemma3,"Okay, I'm ready. Please provide the example.
+",Machine learning is a method where systems learn patterns from data.,0.858132541179657,0.0,0.10944493,0.3760864958167076
+Explain artificial intelligence,basic,gemma3,"Artificial intelligence (AI) is a broad field of computer science that aims to create machines that can perform tasks that typically require human intelligence. It involves developing algorithms and systems that can learn, reason, solve problems, and adapt to new situations.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8972017765045166,0.23529411764705882,0.7968136,0.6685130310409209
+Provide a structured explanation of artificial intelligence,structured,gemma3,"## Artificial Intelligence: A Structured Explanation
+
+Artificial Intelligence (AI) is a broad field that aims to create intelligent machines that can perform tasks that typically require human intelligence. It involves developing algorithms and systems that can learn, reason, solve problems, and adapt to new situations.
+
+Here's a structured breakdown of AI:
+
+**1. What is AI?**
+
+*   **Definition:** AI refers to the ability of a computer or machine to mimic human intelligence. This includes understanding, learning, reasoning, problem-solving, and adapting to new situations.
+*   **Key Components:**
+",Artificial intelligence is the simulation of human intelligence in machines.,0.861064076423645,0.14893617021276595,0.6324209,0.5788327598191322
+Explain artificial intelligence briefly,concise,gemma3,"Artificial intelligence (AI) is the ability of machines to mimic human intelligence. It involves developing algorithms and systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, understanding language, and reasoning.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.9100177884101868,0.30434782608695654,0.8138701,0.6994724878798361
+You are an expert. Explain artificial intelligence,role_prompt,gemma3,"Okay, I'm ready to explain Artificial Intelligence. Let's dive in!
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8724722266197205,0.2727272727272727,0.5255829,0.5884819513017481
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,few_shot,gemma3,"Okay, I'm ready. Please provide the example.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8527835607528687,0.11111111111111112,0.24053958,0.44660863329966866
+Explain deep learning,basic,gemma3,"Deep learning is a powerful subset of machine learning that uses artificial neural networks with multiple layers to learn complex patterns and representations from data. It's particularly effective for tasks involving large datasets and complex relationships between features and the target variable. 
+
+Here's a breakdown of key concepts:
+
+**Core Idea:**
+
+* **Neural Networks as a Learning System:** Instead of relying on a single algorithm, deep learning systems are inspired by the structure and function of the human brain.
+* **Multiple Layers:**  The network learns by adjusting the weights of the connections between neurons.  Each layer progressively learns",Deep learning is a subset of machine learning using neural networks.,0.8793834447860718,0.18518518518518517,0.7301365,0.6263498935434554
+Provide a structured explanation of deep learning,structured,gemma3,"## Deep Learning: A Structured Explanation
+
+Deep learning is a powerful subset of machine learning that leverages artificial neural networks with multiple layers to learn complex patterns and representations from data. It's particularly effective for tasks involving large datasets and complex relationships between features and the target variable.
+
+Here's a structured breakdown of the key concepts:
+
+**1. Core Concepts:**
+
+* **Neural Networks (NNs):**  These are the fundamental building blocks of deep learning. They consist of interconnected nodes (neurons) arranged in layers. Each neuron receives input from other neurons, performs a calculation, and then",Deep learning is a subset of machine learning using neural networks.,0.8704157471656799,0.1923076923076923,0.65247387,0.6016007815416042
+Explain deep learning briefly,concise,gemma3,"Deep learning is a type of artificial intelligence that uses artificial neural networks with multiple layers to learn complex patterns and make predictions. It's particularly effective for tasks involving large datasets and complex relationships between features.
+",Deep learning is a subset of machine learning using neural networks.,0.9040214419364929,0.2916666666666667,0.7853185,0.6847041308879852
+You are an expert. Explain deep learning,role_prompt,gemma3,"Okay, I'm ready to explain deep learning. It's a powerful and rapidly evolving field that uses artificial neural networks with multiple layers to learn complex patterns from data. Let's dive in!
+",Deep learning is a subset of machine learning using neural networks.,0.895604133605957,0.22222222222222224,0.6709051,0.6261798689762752
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,few_shot,gemma3,"Okay, I'm ready. Let's break down the difference between AI and deep learning.
+",Deep learning is a subset of machine learning using neural networks.,0.8894795775413513,0.15384615384615383,0.59874284,0.5815685359331277
+Explain data science,basic,gemma3,"Data science is the scientific study of data, using statistical methods and machine learning techniques to extract meaningful insights from large datasets. It involves transforming raw data into actionable knowledge that can be used to make informed decisions and improve business outcomes.
+",Data science involves extracting insights from data.,0.9219938516616821,0.2040816326530612,0.7416705,0.6525231891748856
+Provide a structured explanation of data science,structured,gemma3,"## Data Science: A Comprehensive Overview
+
+Data science is the art and science of extracting meaningful insights from large amounts of data. It involves using data to inform decision-making, improve processes, and drive innovation. It's a multifaceted field with a wide range of applications, from personalizing experiences to predicting future trends.
+
+Here's a structured breakdown of the key aspects of data science:
+
+**1. Core Concepts:**
+
+*   **Data:** The raw, unorganized, and often incomplete data that is collected and analyzed.
+*   **Data Types:**  Data can be structured",Data science involves extracting insights from data.,0.87509685754776,0.12903225806451613,0.7263461,0.6066522580000663
+Explain data science briefly,concise,gemma3,"Data science is the art and science of using data to make informed decisions and solve problems. It involves collecting, cleaning, transforming, analyzing, and interpreting data to gain insights and insights.
+",Data science involves extracting insights from data.,0.9065464735031128,0.2105263157894737,0.766682,0.6557811076703824
+You are an expert. Explain data science,role_prompt,gemma3,"Okay, I'm ready to explain data science. I'll break it down into clear, understandable terms. Let's begin!
+",Data science involves extracting insights from data.,0.8719658255577087,0.14814814814814817,0.57811344,0.5666648086574343
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,few_shot,gemma3,"Okay, I'm ready. Let's begin.
+",Data science involves extracting insights from data.,0.8471130132675171,0.0,0.054112554,0.35507897175848485
+Explain NLP,basic,gemma3,"NLP stands for Natural Language Processing. It's a field of computer science that focuses on enabling computers to understand, interpret, and generate human language. Essentially, it's about building systems that can process and understand human language in a way that mimics human cognition.
+",Natural language processing deals with understanding human language.,0.8953104615211487,0.18867924528301885,0.60192084,0.595304223051611
+Provide a structured explanation of NLP,structured,gemma3,"## NLP: A Comprehensive Explanation
+
+NLP stands for Natural Language Processing. It's a field of computer science that focuses on enabling computers to understand, interpret, and generate human language.  Essentially, it's about making computers capable of processing and understanding human language in a way that mimics human cognition.
+
+Here's a structured breakdown of NLP:
+
+**1. Core Concepts:**
+
+* **Language Understanding:** NLP aims to understand the meaning and context of human language. It goes beyond simply recognizing words and phrases; it aims to infer the underlying meaning and relationships between words.
+* **",Natural language processing deals with understanding human language.,0.8605154752731323,0.12121212121212123,0.65267307,0.5763717551123013
+Explain NLP briefly,concise,gemma3,"NLP stands for Natural Language Processing. It's the field of computer science that focuses on enabling computers to understand, interpret, and generate human language. 
+
+Essentially, it's about making computers capable of processing and understanding human language in a way that's useful for a wide range of applications, from chatbots and virtual assistants to machine translation and sentiment analysis.
+",Natural language processing deals with understanding human language.,0.8818137645721436,0.17391304347826086,0.5865172,0.5808545952257903
+You are an expert. Explain NLP,role_prompt,gemma3,"Okay, I'm ready to explain NLP. I'll break it down into clear, understandable terms. Let's begin! 
+",Natural language processing deals with understanding human language.,0.8509577512741089,0.0,0.44144663,0.4728170961141587
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,few_shot,gemma3,"Okay, I'm ready. Let's begin.
+",Natural language processing deals with understanding human language.,0.8464808464050293,0.0,0.044291712,0.35187985301017766
+Explain supervised learning,basic,gemma3,"Supervised learning is a type of machine learning where the algorithm learns from a labeled dataset. This means that the algorithm receives a dataset where each example has both the input features and the desired output (the label). The algorithm learns to map the input features to the correct output labels.
+
+Here's a breakdown of the key concepts:
+
+* **Labeled Data:** The dataset consists of examples, where each example has both the input features and the corresponding correct output label.
+* **Training Process:** The algorithm is trained on this labeled data. It learns to predict the label for new, unseen examples",Supervised learning uses labeled data for training.,0.8622354865074158,0.09345794392523366,0.71349174,0.5869791140344656
+Provide a structured explanation of supervised learning,structured,gemma3,"## Supervised Learning: Learning from Data with a Teacher
+
+Supervised learning is a machine learning technique where the algorithm learns from a labeled dataset.  This means the algorithm receives a dataset where each example has a corresponding label (e.g., ""cat"" or ""dog""). The algorithm then learns to predict the label for new, unseen examples based on the patterns it has seen in the training data.
+
+Here's a structured breakdown of the process:
+
+**1. Data Preparation:**
+
+*   **Data Collection:** Gathering the labeled data needed for the supervised task. This data should be",Supervised learning uses labeled data for training.,0.860896646976471,0.1020408163265306,0.71185416,0.5885271635590769
+Explain supervised learning briefly,concise,gemma3,"Supervised learning is a type of machine learning where the algorithm learns from a labeled dataset. The algorithm is trained on a dataset where each example has a corresponding label (e.g., ""cat"" or ""dog""). The algorithm then uses the labeled data to make predictions on new, unseen examples. This process helps the algorithm understand the relationships between the input features and the target variable.
+",Supervised learning uses labeled data for training.,0.8831139802932739,0.1388888888888889,0.7360989,0.6157419393459956
+You are an expert. Explain supervised learning,role_prompt,gemma3,"Okay, I'm ready to explain supervised learning. Let's dive in!
+",Supervised learning uses labeled data for training.,0.8815222382545471,0.2105263157894737,0.6278908,0.6041340525213041
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,few_shot,gemma3,"Okay, I'm ready. Let's break down the example.
+",Supervised learning uses labeled data for training.,0.8615115284919739,0.0,0.14408097,0.38782890141010284
+Explain unsupervised learning,basic,gemma3,"Unsupervised learning is a type of machine learning where the algorithm learns from data without being explicitly told what it should look for. Instead, it identifies patterns, structures, and relationships within the data that are not present in the training data. This can be done using various techniques, including:
+
+*   **Clustering:** Grouping similar data points together.
+*   **Dimensionality Reduction:** Reducing the number of variables in the data while preserving important information.
+*   **Anomaly Detection:** Identifying data points that deviate significantly from the norm.
+*   **Classification:** Categorizing data into predefined",Unsupervised learning finds patterns in unlabeled data.,0.8541162014007568,0.10869565217391305,0.6979851,0.5836507189532986
+Provide a structured explanation of unsupervised learning,structured,gemma3,"## Unsupervised Learning: A Structured Explanation
+
+Unsupervised learning is a machine learning technique that aims to discover hidden patterns, structures, and relationships within data without explicit human intervention. It's like a detective trying to solve a mystery by looking for clues and patterns.
+
+Here's a structured breakdown of what unsupervised learning entails:
+
+**1. The Goal: Discovering Hidden Patterns**
+
+*   **Goal:** To identify valuable information that might not be apparent to humans.
+*   **Process:**  The algorithm analyzes the data to identify clusters, anomalies, and relationships that are not easily",Unsupervised learning finds patterns in unlabeled data.,0.8500556349754333,0.08510638297872342,0.65045106,0.5606894940771956
+Explain unsupervised learning briefly,concise,gemma3,"Unsupervised learning is a type of machine learning where the algorithm learns from data without being explicitly told what it should look for. Instead, it identifies patterns, structures, and relationships within the data that are not present in the training data.
+",Unsupervised learning finds patterns in unlabeled data.,0.8958590626716614,0.20833333333333334,0.70718,0.6329976409673691
+You are an expert. Explain unsupervised learning,role_prompt,gemma3,"Okay, I'm ready to explain unsupervised learning. Let's dive in!
+",Unsupervised learning finds patterns in unlabeled data.,0.8899296522140503,0.3157894736842105,0.53473246,0.6111284502242741
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,few_shot,gemma3,"Okay, I'm ready. Let's break down the example:
+
+**Example:** Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning.
+",Unsupervised learning finds patterns in unlabeled data.,0.8604702949523926,0.125,0.5107885,0.5349246710538864
+Explain reinforcement learning,basic,gemma3,"Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties for its actions. It's a powerful technique for learning complex behaviors in dynamic and uncertain environments.
+",Reinforcement learning learns through rewards and penalties.,0.8894916772842407,0.2,0.52530724,0.5733888483047487
+Provide a structured explanation of reinforcement learning,structured,gemma3,"## Reinforcement Learning: A Structured Explanation
+
+Reinforcement Learning (RL) is a powerful machine learning paradigm that learns to make decisions by interacting with an environment and receiving rewards or penalties for its actions. It's a subfield of machine learning that focuses on learning from experience through trial and error.
+
+Here's a structured breakdown of the key concepts and steps involved in RL:
+
+**1. The Core Idea: Learning Through Interaction**
+
+At its heart, RL learns by interacting with an environment.  The agent learns to make optimal decisions by:
+
+*   **Exploration:**  ",Reinforcement learning learns through rewards and penalties.,0.8529306650161743,0.10416666666666666,0.52672714,0.5304404079914093
+Explain reinforcement learning briefly,concise,gemma3,"Reinforcement Learning (RL) is a machine learning technique where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties for its actions. The agent learns to maximize the cumulative reward it receives over time, guided by the observed rewards.
+",Reinforcement learning learns through rewards and penalties.,0.8856974244117737,0.19230769230769232,0.5722202,0.5836373482759183
+You are an expert. Explain reinforcement learning,role_prompt,gemma3,"Okay, I'm ready to explain reinforcement learning. Let's dive in! 
+
+**What is Reinforcement Learning?**
+
+Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties for its actions. It's like teaching an agent to learn through trial and error, constantly adapting to new situations and improving its performance over time.
+
+**Key Concepts:**
+
+*   **Agent:** The learner, the decision-maker. It's the system that interacts with the environment.
+*   ",Reinforcement learning learns through rewards and penalties.,0.8544325232505798,0.10869565217391305,0.5631914,0.5433391320964566
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,few_shot,gemma3,"Okay, I'm ready. Let's break down the example and then I'll explain reinforcement learning.
+",Reinforcement learning learns through rewards and penalties.,0.8710946440696716,0.16666666666666666,0.5424018,0.5611584037542343
+Explain neural networks,basic,gemma3,"Neural networks are a type of artificial neural network (ANN) that learn to make predictions or decisions based on data. They are inspired by the structure and function of the human brain, but with a focus on learning complex patterns and relationships within data.
+
+Here's a breakdown of the key concepts:
+
+* **Neural Network:** A computational model inspired by the structure of the human brain. It consists of interconnected nodes (neurons) arranged in layers. Each node receives input from other nodes and performs a calculation. The connections between nodes are made using weights and biases.
+
+* **Layers:** Neural networks",Neural networks are systems inspired by the human brain.,0.8755336999893188,0.14953271028037382,0.7355593,0.615741087426649
+Provide a structured explanation of neural networks,structured,gemma3,"## Neural Networks: A Structured Explanation
+
+Neural networks are powerful machine learning models inspired by the structure and function of the human brain. They are designed to learn complex patterns from data and make predictions or decisions based on those patterns. They are particularly effective for tasks involving large datasets and complex relationships between inputs and outputs.
+
+Here's a structured breakdown of the key concepts:
+
+**1. Core Components:**
+
+*   **Neurons (Nodes):** These are the fundamental building blocks of a neural network. They receive input, process it, and produce an output. Each neuron has a weighted sum of",Neural networks are systems inspired by the human brain.,0.8698893189430237,0.15238095238095237,0.6334668,0.5837100503274373
+Explain neural networks briefly,concise,gemma3,"Neural networks are a type of artificial neural network (ANN) that learn patterns from data by adjusting the weights of the connections between neurons. They are inspired by the structure and function of the human brain, but with a focus on learning complex relationships between inputs and outputs.
+",Neural networks are systems inspired by the human brain.,0.895534098148346,0.2807017543859649,0.7570987,0.6695537739678434
+You are an expert. Explain neural networks,role_prompt,gemma3,"Okay, I'm ready to explain neural networks. Let's dive in!
+",Neural networks are systems inspired by the human brain.,0.8755908012390137,0.1904761904761905,0.60402036,0.58858528477805
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,few_shot,gemma3,"Okay, I'm ready. Please provide the example you want me to explain.
+",Neural networks are systems inspired by the human brain.,0.8512091040611267,0.09090909090909093,0.16097765,0.4160496651448987
+Explain overfitting,basic,gemma3,"Overfitting is the tendency of a model to memorize the training data and perform well on the training data but poorly on new, unseen data. It's like having a student who knows the answers to all the questions in the textbook, but they've never learned the real world.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8766074776649475,0.09999999999999999,0.75702894,0.6077516782283783
+Provide a structured explanation of overfitting,structured,gemma3,"## Overfitting: A Structured Explanation
+
+Overfitting is a common problem in machine learning, especially in deep learning. It occurs when a model learns the training data too well, leading to poor generalization performance on new, unseen data.  Think of it like this:
+
+**Key Characteristics of Overfitting:**
+
+*   **Data Dependence:** The model learns the training data *too* well, meaning it memorizes the patterns and relationships present in the data.
+*   **Sensitivity to Initial Training:**  The model is highly sensitive to the initial training data.  If the training data is noisy",Overfitting occurs when a model learns noise instead of patterns.,0.850746750831604,0.16666666666666666,0.72287786,0.6071620643138886
+Explain overfitting briefly,concise,gemma3,"Overfitting is when a model learns the training data too well and performs poorly on new, unseen data. It's like memorizing the training examples and not generalizing to the new ones. 
+
+Essentially, it's when the model is too complex and can't effectively capture the underlying patterns in the data.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8906940817832947,0.1935483870967742,0.73013103,0.63338146978809
+You are an expert. Explain overfitting,role_prompt,gemma3,"Okay, I'm ready to explain overfitting. 
+
+**What is Overfitting?**
+
+Overfitting is a situation where a model learns the training data *too well* and performs exceptionally well on the training data but poorly on new, unseen data. It's like having a highly accurate model that can predict the correct answers for new inputs, but it's also very good at memorizing the training data and generalizing to new situations.
+
+**Why Does Overfitting Happen?**
+
+There are several reasons why overfitting can occur:
+
+*   **Data Quality:** The training data might",Overfitting occurs when a model learns noise instead of patterns.,0.8475111722946167,0.0816326530612245,0.7133106,0.5774874565552691
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,few_shot,gemma3,"Okay, I understand.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8600212931632996,0.0,0.06562356,0.3636955849826336

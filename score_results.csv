@@ -1,0 +1,999 @@
+original_prompt,score_prompt,prompt_type,model,response,reference,bertscore,rougeL,embedding_score,final_score
+Explain machine learning,"Here is the rewritten prompt:
+
+What is machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief definition of machine learning, which should result in shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed, allowing them to improve their performance on a task over time. It involves training algorithms on large datasets to enable predictive modeling and decision-making.",Machine learning is a method where systems learn patterns from data.,0.910447895526886,0.2545454545454546,0.8234765,0.6875857485424389
+Provide a structured explanation of machine learning,"Here is the rewritten prompt:
+
+""Define machine learning in 1-2 concise sentences, focusing on its core concept.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+The changes made include:
+
+* Using a more specific and focused question (""Define"" instead of ""Provide a structured explanation"")
+* Limiting the response length to 1-2 sentences
+* Emphasizing conciseness and precision in the answer
+* Matching likely reference style by using formal language
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Machine learning is a subset of artificial intelligence that enables systems to automatically improve their performance on a task by learning from data, without being explicitly programmed. It involves training algorithms on large datasets to enable them to make predictions or take actions based on patterns and relationships learned from the data.",Machine learning is a method where systems learn patterns from data.,0.9194226264953613,0.253968253968254,0.83014315,0.6930024848097847
+Explain machine learning briefly,"Here is the rewritten prompt:
+
+What are the core concepts of machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief summary of machine learning's fundamental ideas, which should result in shorter and more precise answers.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"The core concepts of machine learning include supervised and unsupervised learning, neural networks, deep learning, regression, classification, clustering, and optimization algorithms such as gradient descent and stochastic gradient descent. These fundamental ideas enable machines to learn from data, make predictions, and improve their performance over time.",Machine learning is a method where systems learn patterns from data.,0.8844160437583923,0.1754385964912281,0.72319573,0.6233567278636131
+You are an expert. Explain machine learning,"Here is the rewritten prompt:
+
+As a machine learning expert, describe the concept of machine learning in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language that matches the expected response style. The added constraint of describing the concept in 1-2 sentences ensures concise responses while still allowing for direct answers.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Machine learning is a subset of artificial intelligence that enables computers to learn from data, improve their performance on tasks, and make predictions or decisions without being explicitly programmed. It involves training algorithms on large datasets to enable them to recognize patterns, classify objects, and make accurate predictions.",Machine learning is a method where systems learn patterns from data.,0.9125149250030518,0.23728813559322035,0.8317938,0.6857305491879835
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,"Here's the rewritten prompt:
+
+What are key concepts in machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+The changes made include:
+
+* Using a more specific and focused question that targets the desired information (key concepts in machine learning)
+* Avoiding unnecessary words or phrases that might lead to lengthy responses
+* Using precise wording to ensure clarity and concision
+
+This rewritten prompt is designed for few-shot evaluation, where the goal is to elicit concise and accurate answers.
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Key concepts in machine learning include supervised and unsupervised learning, neural networks, deep learning, regression, classification, clustering, dimensionality reduction, and optimization algorithms such as gradient descent and stochastic gradient descent. Additionally, techniques like feature engineering, data preprocessing, and model evaluation are also crucial aspects of machine learning.",Machine learning is a method where systems learn patterns from data.,0.8642439246177673,0.10344827586206895,0.6980207,0.5861382645779643
+Explain artificial intelligence,"Here is the rewritten prompt:
+
+What is the definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that defines AI.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. It involves creating algorithms and models that enable machines to simulate human-like intelligence and automate complex tasks.",Artificial intelligence is the simulation of human intelligence in machines.,0.9010674953460693,0.2545454545454545,0.8298315,0.6857400877367368
+Provide a structured explanation of artificial intelligence,"Here is the rewritten prompt:
+
+**Define Artificial Intelligence**
+
+What are the key concepts and principles that define AI?
+
+(Note: I've kept the prompt concise, focused on direct answers, and used precise wording to maximize semantic similarity with reference answers. Let me know if you'd like any further adjustments!)
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. The key concepts and principles defining AI include machine learning, natural language processing, and cognitive computing, which enable machines to simulate human-like intelligence and adapt to new situations.",Artificial intelligence is the simulation of human intelligence in machines.,0.8931599855422974,0.21212121212121213,0.81925344,0.6666764001954685
+Explain artificial intelligence briefly,"Here is the rewritten prompt:
+
+What is a brief definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""definition"" instead of ""explain"")
+* Focusing on brevity (""brief"" emphasis)
+* Asking for a specific type of response (""definition"")
+
+This prompt should elicit concise, direct answers that match likely reference style and are semantically similar to reference answers.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Artificial intelligence (AI) refers to the development of computer systems able to perform tasks typically requiring human intelligence, such as learning, problem-solving, and decision-making.",Artificial intelligence is the simulation of human intelligence in machines.,0.9048898816108704,0.33333333333333337,0.7930583,0.6998734503984451
+You are an expert. Explain artificial intelligence,"Here is the rewritten prompt:
+
+As AI expert, define artificial intelligence in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more precise and concise language. The added constraint of defining AI in 1-2 sentences encourages direct and concise responses while adhering to the strict rules you provided.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. AI systems use algorithms and data to simulate human-like intelligence, enabling them to automate complex tasks and interact with humans in a more intelligent way.",Artificial intelligence is the simulation of human intelligence in machines.,0.8948280811309814,0.22222222222222224,0.8149558,0.6690846333901088
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,"Here's the rewritten prompt:
+
+What is the definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+The changes made include:
+
+* Simplifying the language to make it more precise and concise
+* Focusing on a specific question (""What is..."") to elicit a direct answer
+* Avoiding unnecessary explanations or context
+
+This prompt should encourage short, accurate responses that match the likely reference style.
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Artificial intelligence (AI) refers to the development of computer systems able to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.",Artificial intelligence is the simulation of human intelligence in machines.,0.9032239317893982,0.32432432432432434,0.79281396,0.696431068955241
+Explain deep learning,"Here is the rewritten prompt:
+
+What are the key concepts in deep learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of deep learning, making it easier for models to provide accurate and brief answers that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"The key concepts in deep learning include neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers, which are used for tasks such as image classification, natural language processing, and speech recognition. Additionally, techniques like backpropagation, gradient descent, and regularization are fundamental to the training of these models.",Deep learning is a subset of machine learning using neural networks.,0.8728475570678711,0.13114754098360654,0.7060139,0.600287466459587
+Provide a structured explanation of deep learning,"Here is the rewritten prompt:
+
+**What are the key concepts in deep learning?**
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, focusing on the core ideas in deep learning, which should elicit shorter and more precise answers.
+
+Let me know if you'd like me to explain any changes I made!
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"The key concepts in deep learning include neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), transfer learning, and regularization techniques such as dropout and L1/L2 regularization. These concepts form the foundation of modern deep learning architectures and are used to solve a wide range of machine learning problems.",Deep learning is a subset of machine learning using neural networks.,0.8806752562522888,0.1935483870967742,0.7292188,0.6291002648492015
+Explain deep learning briefly,"Here is the rewritten prompt:
+
+What are the key concepts of deep learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, focusing on the core ideas of deep learning, which should elicit shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"The key concepts of deep learning include neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks, which enable machines to learn complex patterns and relationships from data. Additionally, techniques such as transfer learning, batch normalization, and regularization are also crucial components of deep learning architectures.",Deep learning is a subset of machine learning using neural networks.,0.8771253824234009,0.125,0.72590244,0.6061208933591843
+You are an expert. Explain deep learning,"Here is the rewritten prompt:
+
+**Role:** Deep Learning Expert
+**Task:** Define deep learning in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The role and task are clearly defined, making it easier for the AI model to provide a precise and concise response that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"As a Deep Learning Expert, I define deep learning as a subset of machine learning that employs multiple layers of artificial neural networks to learn complex patterns and relationships within data. This approach enables computers to automatically improve their performance on tasks such as image recognition, natural language processing, and speech recognition.",Deep learning is a subset of machine learning using neural networks.,0.9066715836524963,0.28571428571428575,0.798566,0.6879527172871999
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define ""deep learning"" as if you were explaining it to someone who just learned about AI (e.g., ""AI is intelligence in machines"").
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Deep learning refers to a type of machine learning where artificial neural networks are trained on large amounts of data to learn patterns and make predictions or decisions, mimicking the structure and function of the human brain. This approach enables machines to improve their performance over time with minimal human intervention, making it a powerful tool for tasks like image recognition, natural language processing, and speech recognition.",Deep learning is a subset of machine learning using neural networks.,0.8887198567390442,0.20512820512820515,0.80260766,0.6578087098323382
+Explain data science,"Here is the rewritten prompt:
+
+What is data science?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief definition of data science, which should result in shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"Data science is an interdisciplinary field that combines elements of computer science, statistics, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data. It involves using various techniques such as machine learning, data mining, and visualization to analyze and interpret complex data sets.",Data science involves extracting insights from data.,0.9100850820541382,0.18518518518518517,0.71646225,0.634528273675177
+Provide a structured explanation of data science,"Here is the rewritten prompt:
+
+**Define Data Science**
+
+What are the core concepts and principles that comprise data science?
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Data science is a multidisciplinary field that combines elements of computer science, statistics, mathematics, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data. At its core, data science involves the use of statistical models, machine learning algorithms, and data visualization techniques to analyze and interpret complex data sets.",Data science involves extracting insights from data.,0.9052892327308655,0.16666666666666669,0.7066677,0.6241160184144974
+Explain data science briefly,"Here is the rewritten prompt:
+
+What is a brief overview of data science?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief overview"" instead of ""explain briefly"")
+* Focusing on a specific aspect (""what is"") for a clear and concise answer
+* Eliminating unnecessary words and phrases
+
+This rewritten prompt should elicit shorter, more direct responses that match likely reference style.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Data science is an interdisciplinary field that combines elements of computer science, statistics, and domain-specific knowledge to extract insights and knowledge from data. It involves using various techniques such as machine learning, data mining, and visualization to analyze and interpret complex data sets.",Data science involves extracting insights from data.,0.9170308113098145,0.19607843137254902,0.71669793,0.6406452452435214
+You are an expert. Explain data science,"Here is the rewritten prompt:
+
+As a data science expert, describe your field in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"As a data science expert, I describe my field as the application of advanced statistical techniques, machine learning algorithms, and computational methods to extract insights and knowledge from complex data sets. Data science combines elements of computer science, mathematics, and domain-specific expertise to drive informed decision-making in various industries.",Data science involves extracting insights from data.,0.9038780331611633,0.1724137931034483,0.6388997,0.6049452623416638
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,"Here's the rewritten prompt:
+
+What are key concepts in data science, similar to how AI refers to machine intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers by:
+
+1. Using a similar structure and wording to the original prompt (e.g., ""What is [concept]?"" format).
+2. Providing a clear connection between the concept being asked about (data science) and the previously mentioned concept (AI), which should help the model generate more relevant and concise responses.
+3. Encouraging the model to provide key concepts or definitions, rather than lengthy explanations.
+
+The revised prompt also
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Here are some key concepts in data science:
+
+1. Data preprocessing: Cleaning, transforming, and preparing data for analysis.
+2. Machine learning: A subset of AI that enables computers to learn from data without explicit programming.
+3. Statistical modeling: Using mathematical models to describe relationships between variables.
+4. Data visualization: Communicating insights through graphical representations of data.
+5. Big data analytics: Analyzing large datasets to extract meaningful patterns and trends.
+
+These concepts are fundamental to the field of data science, which is closely related to AI but focuses on extracting insights from data rather than making decisions autonomously.",Data science involves extracting insights from data.,0.8825947046279907,0.11538461538461539,0.67049634,0.5888021787771812
+Explain NLP,"Here is the rewritten prompt:
+
+What is NLP?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"NLP stands for Natural Language Processing, which is a subfield of artificial intelligence (AI) that deals with the interaction between computers and humans in natural language. It involves the use of algorithms and statistical models to process, understand, and generate human language.",Natural language processing deals with understanding human language.,0.898800253868103,0.27999999999999997,0.6251808,0.6310743417739868
+Provide a structured explanation of NLP,"Here is the rewritten prompt:
+
+**Define NLP**
+
+What are the key concepts and techniques in Natural Language Processing (NLP)?
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Natural Language Processing (NLP) refers to the intersection of computer science, artificial intelligence, and linguistics that enables computers to understand, interpret, and generate human language. Key concepts and techniques in NLP include text analysis, sentiment analysis, machine learning algorithms, deep learning models, and linguistic resources such as dictionaries and ontologies.",Natural language processing deals with understanding human language.,0.8860101103782654,0.1724137931034483,0.71103406,0.6194384088803981
+Explain NLP briefly,"Here is the rewritten prompt:
+
+What is a brief overview of NLP?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief overview"" instead of ""explain"")
+* Focusing on a specific aspect (""What is..."") to encourage a concise response
+* Avoiding unnecessary explanations
+
+This rewritten prompt should elicit shorter, more direct responses that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"NLP (Natural Language Processing) is a subfield of computer science and artificial intelligence that deals with the interaction between computers and humans in natural language. It involves the use of algorithms and statistical models to process, understand, and generate human language.",Natural language processing deals with understanding human language.,0.9007585048675537,0.28571428571428575,0.6607328,0.6442375383206776
+You are an expert. Explain NLP,"Here is the rewritten prompt:
+
+As a subject matter expert, define NLP in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a definition of NLP, which should elicit a clear and brief response.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Natural Language Processing (NLP) is a subfield of artificial intelligence that deals with the interaction between computers and humans in natural language, enabling machines to understand, interpret, and generate human-like text and speech. It involves the use of algorithms and statistical models to analyze, process, and generate natural language data.",Natural language processing deals with understanding human language.,0.8942990303039551,0.23728813559322037,0.6956693,0.637606843800868
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define NLP, similar to ""AI is intelligence in machines""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using a similar structure and wording to the original example. The concise response requirement is met by limiting the answer to 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"NLP stands for Natural Language Processing, which refers to the intersection of computer science and linguistics that enables machines to understand, interpret, and generate human language. It involves developing algorithms and statistical models to process, analyze, and generate natural language data.",Natural language processing deals with understanding human language.,0.8943473696708679,0.20408163265306123,0.6470496,0.613078331339116
+Explain supervised learning,"Here is the rewritten prompt:
+
+What is the primary approach in supervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"The primary approach in supervised learning is regression or classification, where the model learns from labeled data to make predictions on unseen data.",Supervised learning uses labeled data for training.,0.9046483039855957,0.26666666666666666,0.73062146,0.6610457617044448
+Provide a structured explanation of supervised learning,"Here is the rewritten prompt:
+
+""Define supervised learning in 1-2 concise sentences, focusing on its core concept and key characteristics.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses (VERY IMPORTANT) by limiting the answer length to 1-2 sentences. Additionally, it encourages direct answers by asking for a definition of supervised learning rather than an explanation.
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data, using the correct output as a target to optimize its predictions. The key characteristic is that the algorithm receives feedback in the form of labeled examples, allowing it to learn from the errors and improve its performance over time.",Supervised learning uses labeled data for training.,0.8922470211982727,0.13114754098360656,0.7299727,0.615234901719406
+Explain supervised learning briefly,"Here is the rewritten prompt:
+
+What is a brief summary of supervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief summary"" instead of ""explain briefly"")
+* Focusing on a specific aspect (""summary"") to encourage concise responses
+* Asking for a direct answer (""What is..."") rather than an explanation
+
+This rewritten prompt should elicit shorter, more focused answers that match the reference style.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data to make predictions on new, unseen data. The model is trained on a dataset with input-output pairs, allowing it to learn patterns and relationships between features and targets.",Supervised learning uses labeled data for training.,0.8979465365409851,0.1568627450980392,0.7098409,0.6191897092496648
+You are an expert. Explain supervised learning,"Here is the rewritten prompt:
+
+As an expert, define supervised learning in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and a clear structure that matches likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Supervised learning is a type of machine learning where the algorithm learns from labeled data, using the input-output pairs to train and make predictions on new, unseen data. The goal is to minimize the error between predicted outputs and actual outputs, with the help of human-annotated training data.",Supervised learning uses labeled data for training.,0.8950614929199219,0.1754385964912281,0.7378274,0.6320044170869025
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,"Here's the rewritten prompt:
+
+**Few-shot Learning Example**
+
+Q: Define AI and briefly describe supervised learning.
+
+Aim for concise answers (1-2 sentences) that directly address the question, with high semantic similarity to reference answers.
+
+Please respond with a brief explanation of supervised learning.
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Supervised learning is a type of machine learning where an algorithm learns from labeled data, using the correct output as a target to learn the mapping between inputs and outputs. The goal is to train a model that can make accurate predictions on new, unseen data by minimizing the difference between its predictions and the true labels.",Supervised learning uses labeled data for training.,0.8905329704284668,0.125,0.7121177,0.6073484987020493
+Explain unsupervised learning,"Here is the rewritten prompt:
+
+What are the key concepts of unsupervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of unsupervised learning, making it easier for models to provide accurate and brief answers.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"The key concepts of unsupervised learning include clustering, dimensionality reduction (e.g., PCA, t-SNE), density estimation, and anomaly detection. These techniques enable machines to identify patterns or relationships within unlabeled data without prior knowledge of the correct output.",Unsupervised learning finds patterns in unlabeled data.,0.895516574382782,0.21739130434782608,0.75715184,0.6505695885938146
+Provide a structured explanation of unsupervised learning,"Here is the rewritten prompt:
+
+""Define unsupervised learning and its key characteristics, highlighting how it differs from supervised learning.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by focusing on a specific aspect of unsupervised learning (its definition and characteristics) rather than asking for a broad explanation.
+
+The strict rules are followed:
+
+* The answer will be short (1-2 sentences).
+* Explanations are avoided unless necessary.
+* Precise wording is used to define unsupervised learning.
+* The prompt
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Unsupervised learning is a type of machine learning where the algorithm identifies patterns and relationships in data without prior knowledge of the correct output, distinguishing it from supervised learning where the algorithm learns from labeled data. Key characteristics include clustering, dimensionality reduction, and anomaly detection, which enable the algorithm to discover hidden structures or groupings within the data.",Unsupervised learning finds patterns in unlabeled data.,0.8859199285507202,0.15384615384615388,0.717005,0.6156233278604655
+Explain unsupervised learning briefly,"Here is the rewritten prompt:
+
+What is a brief definition of unsupervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using a more specific question format (""What is..."") instead of an open-ended ""Explain...""
+* Focusing on a brief definition, which encourages concise responses
+* Avoiding unnecessary explanations or elaborations
+
+The rewritten prompt should elicit short and precise answers that match likely reference style.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Unsupervised learning is a type of machine learning where the algorithm learns patterns and relationships from unlabeled data, without any prior knowledge of the expected output or labels. It aims to identify hidden structures or groupings within the data.",Unsupervised learning finds patterns in unlabeled data.,0.9103553295135498,0.21739130434782608,0.7837987,0.6644991463941076
+You are an expert. Explain unsupervised learning,"Here is the rewritten prompt:
+
+""Define unsupervised learning, highlighting key concepts.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language that matches likely reference style. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed: explanations are avoided unless necessary, and the wording is precise.
+
+The rewritten prompt:
+
+* Uses a clear and concise definition format
+* Highlights key concepts, which should lead to more focused and accurate responses
+* Avoids unnecessary explanations, keeping the response brief and to-the-point
+
+This revised prompt should
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Unsupervised learning is a type of machine learning where algorithms learn patterns and relationships from unlabeled data without prior knowledge or guidance. Key concepts include clustering, dimensionality reduction, and density estimation.",Unsupervised learning finds patterns in unlabeled data.,0.911011815071106,0.2631578947368421,0.76148796,0.6717984886545885
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,"Here's the rewritten prompt:
+
+Example: Q: Define AI. A: AI is machine intelligence. Describe unsupervised learning briefly.
+
+Changes made to optimize for:
+
+* Semantic similarity with reference answers:
+	+ Changed ""What is AI?"" to ""Define AI"" to match the concise and precise tone of the original answer.
+	+ Added ""briefly"" to ensure responses are short and to-the-point, matching the style of the original answer.
+* Concise responses (VERY IMPORTANT):
+	+ Removed unnecessary words and phrases to keep the prompt concise and focused.
+* Direct answers:
+	+ Changed
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"I'm ready to assist you with rewriting your prompt. Please go ahead and provide it, and I'll do my best to optimize it for semantic similarity with reference answers, concise responses, and direct answers.",Unsupervised learning finds patterns in unlabeled data.,0.842583179473877,0.0,0.07686804,0.3600936848670244
+Explain reinforcement learning,"Here is the rewritten prompt:
+
+What is the core concept of reinforcement learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core idea of reinforcement learning, making it easier for models to provide a concise and accurate response.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"The core concept of reinforcement learning is to learn an optimal policy by trial and error through interactions with an environment, receiving rewards or penalties for actions taken. This process involves maximizing cumulative rewards while minimizing negative outcomes.",Reinforcement learning learns through rewards and penalties.,0.8907285332679749,0.2222222222222222,0.7041722,0.6342097411553065
+Provide a structured explanation of reinforcement learning,"Here is the rewritten prompt:
+
+""Define reinforcement learning in 1-2 concise sentences, highlighting key concepts.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed by avoiding explanations unless necessary and matching likely reference style.
+
+Let me know if you'd like me to make any further adjustments!
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Reinforcement learning is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal, often through trial and error. It involves interacting with the environment, receiving feedback (rewards or penalties), and adjusting its behavior to optimize performance.",Reinforcement learning learns through rewards and penalties.,0.884334146976471,0.22641509433962262,0.598608,0.6012406041037361
+Explain reinforcement learning briefly,"Here is the rewritten prompt:
+
+What is a brief summary of reinforcement learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""summary"" instead of ""explain"")
+* Focusing on brevity (""briefly"" emphasizes conciseness)
+* Directly asking for a summary (instead of an explanation)
+
+This revised prompt should elicit concise responses that are similar in style and content to reference answers.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Reinforcement learning is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal, often through trial and error. It involves interacting with the environment, receiving feedback (rewards or penalties), and adjusting its behavior to optimize performance over time.",Reinforcement learning learns through rewards and penalties.,0.8838759660720825,0.21818181818181817,0.6007395,0.5992267875237898
+You are an expert. Explain reinforcement learning,"Here is the rewritten prompt:
+
+As a subject matter expert, define reinforcement learning in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a definition, which should elicit a clear and brief response.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Reinforcement learning is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal, often through trial and error. It involves interacting with the environment, receiving feedback in the form of rewards or penalties, and adapting its behavior to optimize performance over time.",Reinforcement learning learns through rewards and penalties.,0.887799084186554,0.20338983050847456,0.60707164,0.5982580832000507
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,"Here's the rewritten prompt:
+
+**Few-shot Learning: Reinforcement Learning**
+
+Q: Define AI and then briefly describe reinforcement learning.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic Similarity**: The prompt is designed to elicit a response that closely matches the expected answer style.
+2. **Concise Responses**: By asking for a brief definition of AI followed by a description of reinforcement learning, you're encouraging concise answers (1-2 sentences).
+3. **Direct Answers**: The prompt's
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.
+
+Reinforcement Learning is a type of machine learning where an agent learns to take actions in an environment to maximize a reward signal, often through trial and error, and receives feedback in the form of rewards or penalties for its actions.",Reinforcement learning learns through rewards and penalties.,0.8597270846366882,0.15384615384615383,0.3923337,0.5077447874041704
+Explain neural networks,"Here is the rewritten prompt:
+
+What are the key concepts of neural networks?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of neural networks, making it easier for models to provide accurate and brief answers that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"Neural networks are composed of layers of interconnected nodes or ""neurons"" that process and transmit information through complex algorithms. The key concepts include artificial neural networks, deep learning, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transfer learning.",Neural networks are systems inspired by the human brain.,0.8676204681396484,0.16666666666666666,0.69960636,0.6069301038980485
+Provide a structured explanation of neural networks,"Here is the rewritten prompt:
+
+**Define Neural Networks**
+
+What are neural networks? Describe their architecture and functionality in 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Neural networks are a type of machine learning model inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process and transmit information. They learn to recognize patterns and make predictions or decisions through complex algorithms and data-driven training.",Neural networks are systems inspired by the human brain.,0.9032763838768005,0.3076923076923077,0.8104402,0.6967503155653293
+Explain neural networks briefly,"Here is the rewritten prompt:
+
+What are the key concepts of neural networks?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed, ensuring that explanations are minimal unless necessary.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"The key concepts of neural networks include artificial neurons, layers, activation functions, backpropagation, and optimization algorithms such as stochastic gradient descent (SGD) or Adam. These components work together to enable the network to learn patterns and make predictions from input data.",Neural networks are systems inspired by the human brain.,0.8540245890617371,0.12,0.69891226,0.587283523440361
+You are an expert. Explain neural networks,"Here is the rewritten prompt:
+
+As a neural network expert, describe the core concept of neural networks in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a description of the core concept, which should elicit a brief and informative response.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"A neural network is a machine learning model inspired by the human brain's structure and function, composed of interconnected nodes (neurons) that process and transmit information through complex patterns of connections. This architecture enables machines to learn from data, recognize patterns, and make predictions or decisions with increasing accuracy.",Neural networks are systems inspired by the human brain.,0.8957680463790894,0.20338983050847456,0.79369164,0.657431670164658
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define AI and illustrate its application with a brief explanation of neural networks.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic similarity**: The prompt is rephrased to be more specific and focused on the topic of AI and neural networks.
+2. **Concise responses**: The request for a ""brief explanation"" ensures that the response will be short and to the point, meeting the 1-2 sentence requirement.
+3. **Direct
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"Here's a rewritten answer:
+
+AI (Artificial Intelligence) refers to the development of computer systems capable of performing tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. Neural networks are a key application of AI, inspired by the structure and function of the human brain, which enable machines to learn from data and improve their performance over time.
+
+Note: I've followed the strict rules you provided, aiming for semantic similarity, concise responses, and direct answers within the 1-2 sentence limit.",Neural networks are systems inspired by the human brain.,0.8660373687744141,0.16666666666666666,0.61511827,0.5809504359960557
+Explain overfitting,"Here is the rewritten prompt:
+
+What is a concise definition of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and precise language. It also prioritizes concise responses by asking for a ""definition"" rather than an explanation, which should result in shorter answers. Finally, the prompt directly asks for a definition, making it more likely that respondents will provide a clear and direct answer.
+
+Answer concisely in 1-2 sentences.",basic,llama3.2,"Overfitting is when a model is too complex and fits the training data too closely, resulting in poor performance on new, unseen data. It occurs when a model is overly specialized to the training data, failing to generalize well to other situations.",Overfitting occurs when a model learns noise instead of patterns.,0.8831210136413574,0.1923076923076923,0.73539937,0.6315605257566159
+Provide a structured explanation of overfitting,"Here is the rewritten prompt:
+
+What are the key characteristics of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+Let me know if this meets your requirements!
+
+Answer concisely in 1-2 sentences.",structured,llama3.2,"Overfitting is characterized by a model that performs well on training data but poorly on new, unseen data, often resulting in high training accuracy and low generalization performance. It occurs when a model is too complex and learns the noise in the training data rather than the underlying patterns.",Overfitting occurs when a model learns noise instead of patterns.,0.9137857556343079,0.27118644067796605,0.8120996,0.6905001221571938
+Explain overfitting briefly,"Here is the rewritten prompt:
+
+What is a brief definition of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, asking for a ""brief definition"" which should result in shorter and more precise answers.
+
+Answer concisely in 1-2 sentences.",concise,llama3.2,"Overfitting occurs when a model is too complex and fits the training data too closely, resulting in poor performance on unseen data. This happens when a model is overly specialized to the training data, failing to generalize well to new, unseen situations.",Overfitting occurs when a model learns noise instead of patterns.,0.8866556286811829,0.1923076923076923,0.7633912,0.6413719211633389
+You are an expert. Explain overfitting,"Here is the rewritten prompt:
+
+As an expert, define overfitting in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and a clear structure. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. The direct answer requirement is met by asking for a definition rather than an explanation.
+
+Answer concisely in 1-2 sentences.",role_prompt,llama3.2,"Overfitting occurs when a model is too complex and fits the training data too closely, resulting in poor performance on new, unseen data. This happens when the model's parameters are overly flexible, allowing it to memorize the training data rather than learning generalizable patterns.",Overfitting occurs when a model learns noise instead of patterns.,0.9095380902290344,0.2181818181818182,0.8017433,0.6697927920384841
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,"Here's the rewritten prompt:
+
+Example: Q: Define AI. A: AI is machine intelligence. Overfitting: What causes AI models to memorize training data rather than generalizing?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic similarity**: The prompt uses precise wording (""Define AI"" instead of ""What is AI?"") and a clear structure (Q: Define AI. A: [Answer]) to encourage similar responses.
+2. **Concise responses**: By asking for a definition
+
+Answer concisely in 1-2 sentences.",few_shot,llama3.2,"I can help you with that.
+
+To answer the revised prompt:
+
+Overfitting occurs when an AI model becomes too specialized in memorizing training data, failing to generalize well to new, unseen data. This happens when the model is overly complex or has too many parameters, causing it to fit the noise in the training data rather than learning generalizable patterns.",Overfitting occurs when a model learns noise instead of patterns.,0.8875847458839417,0.17142857142857143,0.7748271,0.6389106155293328
+Explain machine learning,"Here is the rewritten prompt:
+
+What is machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief definition of machine learning, which should result in shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Machine learning is a field of artificial intelligence that enables computers to learn from data without explicit programming. It involves developing algorithms that allow machines to analyze patterns and make predictions or decisions based on the data they've been trained on.
+",Machine learning is a method where systems learn patterns from data.,0.9252208471298218,0.2641509433962264,0.8726923,0.7111413318031239
+Provide a structured explanation of machine learning,"Here is the rewritten prompt:
+
+""Define machine learning in 1-2 concise sentences, focusing on its core concept.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+The changes made include:
+
+* Using a more specific and focused question (""Define"" instead of ""Provide a structured explanation"")
+* Limiting the response length to 1-2 sentences
+* Emphasizing conciseness and precision in the answer
+* Matching likely reference style by using formal language
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Okay, I understand. I will strive to provide a concise and precise definition of machine learning in 1-2 sentences, focusing on its core concept.
+",Machine learning is a method where systems learn patterns from data.,0.8656060695648193,0.1111111111111111,0.5700606,0.5505939443906148
+Explain machine learning briefly,"Here is the rewritten prompt:
+
+What are the core concepts of machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief summary of machine learning's fundamental ideas, which should result in shorter and more precise answers.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Machine learning is a field of artificial intelligence that uses algorithms to learn from data to make predictions or decisions.
+",Machine learning is a method where systems learn patterns from data.,0.9365618824958801,0.45161290322580644,0.8695738,0.7709807793940268
+You are an expert. Explain machine learning,"Here is the rewritten prompt:
+
+As a machine learning expert, describe the concept of machine learning in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language that matches the expected response style. The added constraint of describing the concept in 1-2 sentences ensures concise responses while still allowing for direct answers.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Machine learning is a field of computer science that uses algorithms to learn patterns and make predictions from data without explicit programming. It involves algorithms that analyze data to identify insights and make decisions.
+",Machine learning is a method where systems learn patterns from data.,0.9286988973617554,0.3555555555555555,0.8853925,0.7437639836470287
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,"Here's the rewritten prompt:
+
+What are key concepts in machine learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+The changes made include:
+
+* Using a more specific and focused question that targets the desired information (key concepts in machine learning)
+* Avoiding unnecessary words or phrases that might lead to lengthy responses
+* Using precise wording to ensure clarity and concision
+
+This rewritten prompt is designed for few-shot evaluation, where the goal is to elicit concise and accurate answers.
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will focus on providing concise, accurate, and direct answers to your prompt, adhering to the specified rules. I am ready to help!
+",Machine learning is a method where systems learn patterns from data.,0.8468484878540039,0.0,0.032907948,0.3486117795109749
+Explain artificial intelligence,"Here is the rewritten prompt:
+
+What is the definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that defines AI.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Artificial intelligence is the development of machines that can mimic human intelligence.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.9537643790245056,0.6363636363636365,0.85044974,0.8275497826662931
+Provide a structured explanation of artificial intelligence,"Here is the rewritten prompt:
+
+**Define Artificial Intelligence**
+
+What are the key concepts and principles that define AI?
+
+(Note: I've kept the prompt concise, focused on direct answers, and used precise wording to maximize semantic similarity with reference answers. Let me know if you'd like any further adjustments!)
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Artificial Intelligence (AI) is the ability of machines to mimic human intelligence. It involves developing algorithms and systems that can learn, reason, and solve problems. Key concepts include pattern recognition, learning from data, and understanding language.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.9095172882080078,0.30434782608695654,0.79173976,0.6926331946383352
+Explain artificial intelligence briefly,"Here is the rewritten prompt:
+
+What is a brief definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""definition"" instead of ""explain"")
+* Focusing on brevity (""brief"" emphasis)
+* Asking for a specific type of response (""definition"")
+
+This prompt should elicit concise, direct answers that match likely reference style and are semantically similar to reference answers.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Artificial intelligence is the development of machines that can mimic human intelligence.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.9537643790245056,0.6363636363636365,0.85044974,0.8275497826662931
+You are an expert. Explain artificial intelligence,"Here is the rewritten prompt:
+
+As AI expert, define artificial intelligence in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more precise and concise language. The added constraint of defining AI in 1-2 sentences encourages direct and concise responses while adhering to the strict rules you provided.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"I am an AI expert in artificial intelligence. I can define and explain AI concepts in a clear and concise manner.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.8755013346672058,0.19354838709677416,0.61491203,0.5927386688609277
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,"Here's the rewritten prompt:
+
+What is the definition of artificial intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+The changes made include:
+
+* Simplifying the language to make it more precise and concise
+* Focusing on a specific question (""What is..."") to elicit a direct answer
+* Avoiding unnecessary explanations or context
+
+This prompt should encourage short, accurate responses that match the likely reference style.
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Artificial intelligence is the development of machines that can mimic human intelligence.
+",Artificial intelligence is the simulation of human intelligence in machines.,0.9537643790245056,0.6363636363636365,0.85044974,0.8275497826662931
+Explain deep learning,"Here is the rewritten prompt:
+
+What are the key concepts in deep learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of deep learning, making it easier for models to provide accurate and brief answers that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Deep learning concepts include neural networks, algorithms, and data structures.
+",Deep learning is a subset of machine learning using neural networks.,0.9214588403701782,0.380952380952381,0.7904388,0.7200008907488415
+Provide a structured explanation of deep learning,"Here is the rewritten prompt:
+
+**What are the key concepts in deep learning?**
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, focusing on the core ideas in deep learning, which should elicit shorter and more precise answers.
+
+Let me know if you'd like me to explain any changes I made!
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Okay, I understand. I'm ready to help you with your deep learning prompt. Please provide the rewritten prompt.
+",Deep learning is a subset of machine learning using neural networks.,0.8676897287368774,0.13333333333333333,0.34458166,0.49045039504766463
+Explain deep learning briefly,"Here is the rewritten prompt:
+
+What are the key concepts of deep learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, focusing on the core ideas of deep learning, which should elicit shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Deep learning is a field of artificial intelligence that uses deep neural networks to learn patterns and make predictions from data. It involves training these networks on large datasets to understand and extract meaningful features.
+",Deep learning is a subset of machine learning using neural networks.,0.9056805372238159,0.30434782608695654,0.82600856,0.7013791331778402
+You are an expert. Explain deep learning,"Here is the rewritten prompt:
+
+**Role:** Deep Learning Expert
+**Task:** Define deep learning in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The role and task are clearly defined, making it easier for the AI model to provide a precise and concise response that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"I am a deep learning expert specializing in understanding and generating natural language. I can provide concise and accurate answers to a wide range of questions, adhering to the specified style and format.
+",Deep learning is a subset of machine learning using neural networks.,0.8570553660392761,0.18181818181818182,0.4314528,0.5268034531311555
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define ""deep learning"" as if you were explaining it to someone who just learned about AI (e.g., ""AI is intelligence in machines"").
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules.
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will provide a concise and accurate definition of deep learning as if I were explaining it to someone who just learned about AI.
+",Deep learning is a subset of machine learning using neural networks.,0.8742744326591492,0.15789473684210525,0.68991625,0.604053073023495
+Explain data science,"Here is the rewritten prompt:
+
+What is data science?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a brief definition of data science, which should result in shorter and more precise responses.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Data science is the study of data, encompassing various fields like statistics, machine learning, and data analysis. It involves extracting insights from data to make informed decisions and improve business outcomes.
+",Data science involves extracting insights from data.,0.9311740398406982,0.3684210526315789,0.7689502,0.713681001882804
+Provide a structured explanation of data science,"Here is the rewritten prompt:
+
+**Define Data Science**
+
+What are the core concepts and principles that comprise data science?
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Data science is the art and science of using data to solve problems, make informed decisions, and improve business outcomes. It involves collecting, cleaning, analyzing, and interpreting data to extract insights and make predictions.
+",Data science involves extracting insights from data.,0.9079508185386658,0.1951219512195122,0.76070774,0.6499292395463805
+Explain data science briefly,"Here is the rewritten prompt:
+
+What is a brief overview of data science?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief overview"" instead of ""explain briefly"")
+* Focusing on a specific aspect (""what is"") for a clear and concise answer
+* Eliminating unnecessary words and phrases
+
+This rewritten prompt should elicit shorter, more direct responses that match likely reference style.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Data science is the study of data to extract insights and make informed decisions. It involves analyzing data to understand patterns, trends, and relationships.
+",Data science involves extracting insights from data.,0.9265769720077515,0.25806451612903225,0.8019628,0.6886389874642895
+You are an expert. Explain data science,"Here is the rewritten prompt:
+
+As a data science expert, describe your field in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"I am a data science expert specializing in machine learning and data analysis. I am adept at extracting meaningful insights from complex datasets using techniques like clustering and dimensionality reduction.
+",Data science involves extracting insights from data.,0.9122851490974426,0.2702702702702703,0.613696,0.6301039344555623
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,"Here's the rewritten prompt:
+
+What are key concepts in data science, similar to how AI refers to machine intelligence?
+
+This revised prompt aims to maximize semantic similarity with reference answers by:
+
+1. Using a similar structure and wording to the original prompt (e.g., ""What is [concept]?"" format).
+2. Providing a clear connection between the concept being asked about (data science) and the previously mentioned concept (AI), which should help the model generate more relevant and concise responses.
+3. Encouraging the model to provide key concepts or definitions, rather than lengthy explanations.
+
+The revised prompt also
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Here are the key concepts in data science similar to AI, focusing on semantic similarity:
+
+1.  **Data Science:** A field of study that uses data to understand, analyze, and interpret patterns and insights.
+2.  **Machine Intelligence:** The ability of machines to perform tasks that require reasoning, problem-solving, and adaptation.
+",Data science involves extracting insights from data.,0.8676031827926636,0.10526315789473684,0.44697678,0.512713266673841
+Explain NLP,"Here is the rewritten prompt:
+
+What is NLP?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"NLP is the process of analyzing text to extract meaningful information and understand its meaning.
+",Natural language processing deals with understanding human language.,0.9015922546386719,0.0,0.5899161,0.5376117348670959
+Provide a structured explanation of NLP,"Here is the rewritten prompt:
+
+**Define NLP**
+
+What are the key concepts and techniques in Natural Language Processing (NLP)?
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"NLP is the study of enabling computers to understand, interpret, and generate human language. It involves techniques like machine learning, deep learning, and natural language understanding to process and analyze text data.
+",Natural language processing deals with understanding human language.,0.8985781073570251,0.15,0.5819067,0.5790032488107683
+Explain NLP briefly,"Here is the rewritten prompt:
+
+What is a brief overview of NLP?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief overview"" instead of ""explain"")
+* Focusing on a specific aspect (""What is..."") to encourage a concise response
+* Avoiding unnecessary explanations
+
+This rewritten prompt should elicit shorter, more direct responses that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"NLP is the study of natural language processing, a field that aims to understand and process human language. It involves analyzing text to extract meaning, identify patterns, and generate human-like responses.
+",Natural language processing deals with understanding human language.,0.9093596935272217,0.25,0.6396167,0.630628901720047
+You are an expert. Explain NLP,"Here is the rewritten prompt:
+
+As a subject matter expert, define NLP in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a definition of NLP, which should elicit a clear and brief response.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Okay, I understand. I will provide a concise definition of NLP in 1-2 sentences, focusing on semantic similarity and relevance.
+",Natural language processing deals with understanding human language.,0.8575605154037476,0.0,0.51557875,0.4976978421211243
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define NLP, similar to ""AI is intelligence in machines""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using a similar structure and wording to the original example. The concise response requirement is met by limiting the answer to 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will use the same structure and wording as the original prompt to provide a concise and relevant answer.
+",Natural language processing deals with understanding human language.,0.8456317782402039,0.0,0.16819908,0.38871243521571164
+Explain supervised learning,"Here is the rewritten prompt:
+
+What is the primary approach in supervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on eliciting a short, precise answer that matches likely reference style.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"The primary approach in supervised learning is to leverage a combination of techniques, including techniques like backpropagation and attention mechanisms, to learn a representation of the input data that captures its semantic meaning.
+",Supervised learning uses labeled data for training.,0.8769721388816833,0.15000000000000002,0.62568295,0.5834937465190888
+Provide a structured explanation of supervised learning,"Here is the rewritten prompt:
+
+""Define supervised learning in 1-2 concise sentences, focusing on its core concept and key characteristics.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses (VERY IMPORTANT) by limiting the answer length to 1-2 sentences. Additionally, it encourages direct answers by asking for a definition of supervised learning rather than an explanation.
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Supervised learning is a machine learning technique where algorithms learn from labeled data to make predictions or classifications. It involves training a model on a dataset where each example has a corresponding label, and the model learns to predict the label for the next example.
+",Supervised learning uses labeled data for training.,0.8984569311141968,0.19230769230769232,0.71909034,0.6328021858747189
+Explain supervised learning briefly,"Here is the rewritten prompt:
+
+What is a brief summary of supervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""brief summary"" instead of ""explain briefly"")
+* Focusing on a specific aspect (""summary"") to encourage concise responses
+* Asking for a direct answer (""What is..."") rather than an explanation
+
+This rewritten prompt should elicit shorter, more focused answers that match the reference style.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Supervised learning is a type of machine learning where the model learns from labeled data to make predictions or classifications. It uses a dataset with known answers to guide the model's learning process.
+",Supervised learning uses labeled data for training.,0.912155032157898,0.1951219512195122,0.7194667,0.6392386100641112
+You are an expert. Explain supervised learning,"Here is the rewritten prompt:
+
+As an expert, define supervised learning in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and a clear structure that matches likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,Supervised learning is a machine learning technique where algorithms learn from labeled data to make predictions or classifications.,Supervised learning uses labeled data for training.,0.9207585453987122,0.32,0.76180536,0.6928450307846069
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,"Here's the rewritten prompt:
+
+**Few-shot Learning Example**
+
+Q: Define AI and briefly describe supervised learning.
+
+Aim for concise answers (1-2 sentences) that directly address the question, with high semantic similarity to reference answers.
+
+Please respond with a brief explanation of supervised learning.
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will provide a brief explanation of supervised learning in 1-2 sentences.
+",Supervised learning uses labeled data for training.,0.8711493611335754,0.17391304347826086,0.6268503,0.5886887555537017
+Explain unsupervised learning,"Here is the rewritten prompt:
+
+What are the key concepts of unsupervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of unsupervised learning, making it easier for models to provide accurate and brief answers.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Unsupervised learning focuses on discovering patterns and relationships within data without explicit labels, enabling models to learn useful insights.
+",Unsupervised learning finds patterns in unlabeled data.,0.9268091320991516,0.3076923076923077,0.8013979,0.7034507329647358
+Provide a structured explanation of unsupervised learning,"Here is the rewritten prompt:
+
+""Define unsupervised learning and its key characteristics, highlighting how it differs from supervised learning.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by focusing on a specific aspect of unsupervised learning (its definition and characteristics) rather than asking for a broad explanation.
+
+The strict rules are followed:
+
+* The answer will be short (1-2 sentences).
+* Explanations are avoided unless necessary.
+* Precise wording is used to define unsupervised learning.
+* The prompt
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Okay, I understand. I will focus on providing concise and accurate definitions of unsupervised learning and its key characteristics, avoiding overly broad explanations and using precise wording.
+",Unsupervised learning finds patterns in unlabeled data.,0.8622397780418396,0.11764705882352941,0.5213245,0.5365873864468406
+Explain unsupervised learning briefly,"Here is the rewritten prompt:
+
+What is a brief definition of unsupervised learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using a more specific question format (""What is..."") instead of an open-ended ""Explain...""
+* Focusing on a brief definition, which encourages concise responses
+* Avoiding unnecessary explanations or elaborations
+
+The rewritten prompt should elicit short and precise answers that match likely reference style.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Unsupervised learning is a machine learning technique where algorithms learn patterns and structures from data without explicit labels or pre-defined objectives.
+",Unsupervised learning finds patterns in unlabeled data.,0.9107652306556702,0.27586206896551724,0.7672185,0.677230269025112
+You are an expert. Explain unsupervised learning,"Here is the rewritten prompt:
+
+""Define unsupervised learning, highlighting key concepts.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language that matches likely reference style. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed: explanations are avoided unless necessary, and the wording is precise.
+
+The rewritten prompt:
+
+* Uses a clear and concise definition format
+* Highlights key concepts, which should lead to more focused and accurate responses
+* Avoids unnecessary explanations, keeping the response brief and to-the-point
+
+This revised prompt should
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Okay, I understand. I will adhere to the prompt's guidelines and provide concise, precise, and brief answers. Let's begin!
+",Unsupervised learning finds patterns in unlabeled data.,0.8445305824279785,0.0,0.05231145,0.35350566841661935
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,"Here's the rewritten prompt:
+
+Example: Q: Define AI. A: AI is machine intelligence. Describe unsupervised learning briefly.
+
+Changes made to optimize for:
+
+* Semantic similarity with reference answers:
+	+ Changed ""What is AI?"" to ""Define AI"" to match the concise and precise tone of the original answer.
+	+ Added ""briefly"" to ensure responses are short and to-the-point, matching the style of the original answer.
+* Concise responses (VERY IMPORTANT):
+	+ Removed unnecessary words and phrases to keep the prompt concise and focused.
+* Direct answers:
+	+ Changed
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will focus on providing concise and accurate answers while maintaining the original prompt's tone and style.
+",Unsupervised learning finds patterns in unlabeled data.,0.8453649282455444,0.0,-0.024069514,0.33092511678114533
+Explain reinforcement learning,"Here is the rewritten prompt:
+
+What is the core concept of reinforcement learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core idea of reinforcement learning, making it easier for models to provide a concise and accurate response.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Reinforcement learning is a machine learning paradigm where an agent learns to make decisions by interacting with an environment to maximize a reward.
+",Reinforcement learning learns through rewards and penalties.,0.8956280946731567,0.2,0.63639504,0.6091697579622268
+Provide a structured explanation of reinforcement learning,"Here is the rewritten prompt:
+
+""Define reinforcement learning in 1-2 concise sentences, highlighting key concepts.""
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise and concise language. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed by avoiding explanations unless necessary and matching likely reference style.
+
+Let me know if you'd like me to make any further adjustments!
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Okay, I understand. I will strive to provide concise and accurate definitions of reinforcement learning in 1-2 sentences, focusing on key concepts and avoiding unnecessary explanations. Let's begin!
+",Reinforcement learning learns through rewards and penalties.,0.8619345426559448,0.16216216216216217,0.52304834,0.550336968093305
+Explain reinforcement learning briefly,"Here is the rewritten prompt:
+
+What is a brief summary of reinforcement learning?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The changes include:
+
+* Using more precise wording (""summary"" instead of ""explain"")
+* Focusing on brevity (""briefly"" emphasizes conciseness)
+* Directly asking for a summary (instead of an explanation)
+
+This revised prompt should elicit concise responses that are similar in style and content to reference answers.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Reinforcement learning is a machine learning technique where an agent learns to make decisions by interacting with an environment to maximize a reward. It involves training an agent to learn optimal strategies by observing the consequences of its actions and adjusting its strategies accordingly.
+",Reinforcement learning learns through rewards and penalties.,0.8832701444625854,0.1568627450980392,0.6000483,0.5803813723956839
+You are an expert. Explain reinforcement learning,"Here is the rewritten prompt:
+
+As a subject matter expert, define reinforcement learning in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a definition, which should elicit a clear and brief response.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Reinforcement learning is a machine learning technique where an agent learns to make decisions by interacting with an environment to maximize a reward.
+",Reinforcement learning learns through rewards and penalties.,0.8943941593170166,0.2,0.6095103,0.6006107664108278
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,"Here's the rewritten prompt:
+
+**Few-shot Learning: Reinforcement Learning**
+
+Q: Define AI and then briefly describe reinforcement learning.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic Similarity**: The prompt is designed to elicit a response that closely matches the expected answer style.
+2. **Concise Responses**: By asking for a brief definition of AI followed by a description of reinforcement learning, you're encouraging concise answers (1-2 sentences).
+3. **Direct Answers**: The prompt's
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will focus on providing concise and accurate answers while adhering to the specified constraints. Let's begin!
+",Reinforcement learning learns through rewards and penalties.,0.840650737285614,0.07142857142857142,0.18583217,0.4134385211127145
+Explain neural networks,"Here is the rewritten prompt:
+
+What are the key concepts of neural networks?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific and focused on the core ideas of neural networks, making it easier for models to provide accurate and brief answers that match likely reference styles.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Neural networks are complex systems designed to learn patterns from data and make predictions. They utilize artificial neural networks to process information and generate outputs.
+",Neural networks are systems inspired by the human brain.,0.8974701166152954,0.23529411764705882,0.7664137,0.6595003944986007
+Provide a structured explanation of neural networks,"Here is the rewritten prompt:
+
+**Define Neural Networks**
+
+What are neural networks? Describe their architecture and functionality in 1-2 sentences.
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Neural networks are artificial neural networks inspired by the structure of the human brain. They learn patterns from data by adjusting the weights of connections between neurons.
+",Neural networks are systems inspired by the human brain.,0.9282233715057373,0.4444444444444444,0.86015856,0.7626702626546225
+Explain neural networks briefly,"Here is the rewritten prompt:
+
+What are the key concepts of neural networks?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while keeping responses short (1-2 sentences). The strict rules are followed, ensuring that explanations are minimal unless necessary.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"Neural networks are complex artificial neural networks designed to learn patterns from data. They use interconnected nodes to process information and make predictions or decisions.
+",Neural networks are systems inspired by the human brain.,0.8915615081787109,0.1764705882352941,0.7085955,0.6221444489324794
+You are an expert. Explain neural networks,"Here is the rewritten prompt:
+
+As a neural network expert, describe the core concept of neural networks in 1-2 sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and matching likely reference style. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. Additionally, it directly asks for a description of the core concept, which should elicit a brief and informative response.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Neural networks are complex algorithms designed to learn patterns from data by adjusting their internal parameters to make predictions or decisions. They leverage the power of interconnected nodes to process information and generate outputs.
+",Neural networks are systems inspired by the human brain.,0.8844687342643738,0.23255813953488372,0.71217155,0.6372064138567725
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,"Here's the rewritten prompt:
+
+**Few-shot prompt:** Define AI and illustrate its application with a brief explanation of neural networks.
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic similarity**: The prompt is rephrased to be more specific and focused on the topic of AI and neural networks.
+2. **Concise responses**: The request for a ""brief explanation"" ensures that the response will be short and to the point, meeting the 1-2 sentence requirement.
+3. **Direct
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will focus on providing concise, direct, and accurate answers while adhering to the specified constraints. Let's begin!
+",Neural networks are systems inspired by the human brain.,0.8415818214416504,0.06451612903225805,0.06651528,0.3759421518252742
+Explain overfitting,"Here is the rewritten prompt:
+
+What is a concise definition of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and precise language. It also prioritizes concise responses by asking for a ""definition"" rather than an explanation, which should result in shorter answers. Finally, the prompt directly asks for a definition, making it more likely that respondents will provide a clear and direct answer.
+
+Answer concisely in 1-2 sentences.",basic,gemma3,"Overfitting occurs when a model learns the training data too well, leading to poor generalization performance on new, unseen data.
+",Overfitting occurs when a model learns noise instead of patterns.,0.9100101590156555,0.4,0.7861314,0.7198434901237488
+Provide a structured explanation of overfitting,"Here is the rewritten prompt:
+
+What are the key characteristics of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers by using more specific and concise language. It also encourages direct answers while adhering to the strict rules you provided.
+
+Let me know if this meets your requirements!
+
+Answer concisely in 1-2 sentences.",structured,gemma3,"Overfitting occurs when a model learns the training data too well, leading to poor generalization to unseen data.
+",Overfitting occurs when a model learns noise instead of patterns.,0.9146155118942261,0.42857142857142855,0.8067998,0.7364575969321387
+Explain overfitting briefly,"Here is the rewritten prompt:
+
+What is a brief definition of overfitting?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules. The new prompt is more specific, asking for a ""brief definition"" which should result in shorter and more precise answers.
+
+Answer concisely in 1-2 sentences.",concise,gemma3,"A brief definition of overfitting is when a model performs well on the training data but poorly on the unseen data.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8918375372886658,0.25806451612903225,0.6807703,0.6383854680484341
+You are an expert. Explain overfitting,"Here is the rewritten prompt:
+
+As an expert, define overfitting in 1-2 concise sentences.
+
+This revised prompt aims to maximize semantic similarity with reference answers by using precise wording and a clear structure. It also prioritizes concise responses by limiting the answer length to 1-2 sentences. The direct answer requirement is met by asking for a definition rather than an explanation.
+
+Answer concisely in 1-2 sentences.",role_prompt,gemma3,"Overfitting occurs when a model learns the training data too well, leading to poor generalization to unseen data. It's a problem where the model performs well on the training set but poorly on new, unseen data.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8998204469680786,0.25531914893617025,0.7640377,0.6657352538819009
+Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,"Here's the rewritten prompt:
+
+Example: Q: Define AI. A: AI is machine intelligence. Overfitting: What causes AI models to memorize training data rather than generalizing?
+
+This revised prompt aims to maximize semantic similarity with reference answers, concise responses, and direct answers while adhering to the strict rules:
+
+1. **Semantic similarity**: The prompt uses precise wording (""Define AI"" instead of ""What is AI?"") and a clear structure (Q: Define AI. A: [Answer]) to encourage similar responses.
+2. **Concise responses**: By asking for a definition
+
+Answer concisely in 1-2 sentences.",few_shot,gemma3,"Okay, I understand. I will focus on providing concise and accurate definitions of AI, adhering to the specified constraints.
+",Overfitting occurs when a model learns noise instead of patterns.,0.8353016376495361,0.06896551724137931,0.14508922,0.39833707891661546
