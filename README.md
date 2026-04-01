@@ -26,6 +26,12 @@ The system evaluates multiple models and demonstrates how prompt engineering str
 
 ---
 
+# Video Explaination Link
+
+**LINK** → [Watch Video](https://youtu.be/0B-RAOH-E_A?si=LfqGDjEogHEk11xh)
+
+---
+
 ## 🔁 System Workflow
 
 ### 1. Iteration 1 — Original Prompts
