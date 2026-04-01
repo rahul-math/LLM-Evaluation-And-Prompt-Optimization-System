@@ -1,0 +1,51 @@
+prompt_type,prompt,reference
+basic,Explain machine learning,Machine learning is a method where systems learn patterns from data.
+structured,Provide a structured explanation of machine learning,Machine learning is a method where systems learn patterns from data.
+concise,Explain machine learning briefly,Machine learning is a method where systems learn patterns from data.
+role_prompt,You are an expert. Explain machine learning,Machine learning is a method where systems learn patterns from data.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain machine learning,Machine learning is a method where systems learn patterns from data.
+basic,Explain artificial intelligence,Artificial intelligence is the simulation of human intelligence in machines.
+structured,Provide a structured explanation of artificial intelligence,Artificial intelligence is the simulation of human intelligence in machines.
+concise,Explain artificial intelligence briefly,Artificial intelligence is the simulation of human intelligence in machines.
+role_prompt,You are an expert. Explain artificial intelligence,Artificial intelligence is the simulation of human intelligence in machines.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain artificial intelligence,Artificial intelligence is the simulation of human intelligence in machines.
+basic,Explain deep learning,Deep learning is a subset of machine learning using neural networks.
+structured,Provide a structured explanation of deep learning,Deep learning is a subset of machine learning using neural networks.
+concise,Explain deep learning briefly,Deep learning is a subset of machine learning using neural networks.
+role_prompt,You are an expert. Explain deep learning,Deep learning is a subset of machine learning using neural networks.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain deep learning,Deep learning is a subset of machine learning using neural networks.
+basic,Explain data science,Data science involves extracting insights from data.
+structured,Provide a structured explanation of data science,Data science involves extracting insights from data.
+concise,Explain data science briefly,Data science involves extracting insights from data.
+role_prompt,You are an expert. Explain data science,Data science involves extracting insights from data.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain data science,Data science involves extracting insights from data.
+basic,Explain NLP,Natural language processing deals with understanding human language.
+structured,Provide a structured explanation of NLP,Natural language processing deals with understanding human language.
+concise,Explain NLP briefly,Natural language processing deals with understanding human language.
+role_prompt,You are an expert. Explain NLP,Natural language processing deals with understanding human language.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain NLP,Natural language processing deals with understanding human language.
+basic,Explain supervised learning,Supervised learning uses labeled data for training.
+structured,Provide a structured explanation of supervised learning,Supervised learning uses labeled data for training.
+concise,Explain supervised learning briefly,Supervised learning uses labeled data for training.
+role_prompt,You are an expert. Explain supervised learning,Supervised learning uses labeled data for training.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain supervised learning,Supervised learning uses labeled data for training.
+basic,Explain unsupervised learning,Unsupervised learning finds patterns in unlabeled data.
+structured,Provide a structured explanation of unsupervised learning,Unsupervised learning finds patterns in unlabeled data.
+concise,Explain unsupervised learning briefly,Unsupervised learning finds patterns in unlabeled data.
+role_prompt,You are an expert. Explain unsupervised learning,Unsupervised learning finds patterns in unlabeled data.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain unsupervised learning,Unsupervised learning finds patterns in unlabeled data.
+basic,Explain reinforcement learning,Reinforcement learning learns through rewards and penalties.
+structured,Provide a structured explanation of reinforcement learning,Reinforcement learning learns through rewards and penalties.
+concise,Explain reinforcement learning briefly,Reinforcement learning learns through rewards and penalties.
+role_prompt,You are an expert. Explain reinforcement learning,Reinforcement learning learns through rewards and penalties.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain reinforcement learning,Reinforcement learning learns through rewards and penalties.
+basic,Explain neural networks,Neural networks are systems inspired by the human brain.
+structured,Provide a structured explanation of neural networks,Neural networks are systems inspired by the human brain.
+concise,Explain neural networks briefly,Neural networks are systems inspired by the human brain.
+role_prompt,You are an expert. Explain neural networks,Neural networks are systems inspired by the human brain.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain neural networks,Neural networks are systems inspired by the human brain.
+basic,Explain overfitting,Overfitting occurs when a model learns noise instead of patterns.
+structured,Provide a structured explanation of overfitting,Overfitting occurs when a model learns noise instead of patterns.
+concise,Explain overfitting briefly,Overfitting occurs when a model learns noise instead of patterns.
+role_prompt,You are an expert. Explain overfitting,Overfitting occurs when a model learns noise instead of patterns.
+few_shot,Example: Q: What is AI? A: AI is intelligence in machines. Now explain overfitting,Overfitting occurs when a model learns noise instead of patterns.
